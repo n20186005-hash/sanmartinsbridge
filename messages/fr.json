@@ -113,11 +113,7 @@
     },
     "accessibility": {
       "label": "Accessibilité",
-      "value": "Accès piéton avec rampes disponibles. Le pont a une surface de pierre irrégulière — chaussures confortables recommandées."
-    },
-    "phone": {
-      "label": "Téléphone",
-      "value": "+34 925 25 09 00"
+      "value": "Accès piétonnier avec rampes disponibles. Le pont a une surface en pierre inégale — chaussures confortables recommandées."
     }
   },
   "map": {
