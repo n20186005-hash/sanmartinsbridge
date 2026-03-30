@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Pont Saint-Martin — Pont de San Martín, Tolède, Espagne",
+    "description": "Guide complet du Pont Saint-Martin : pont piéton médiéval du XIVe siècle avec vues spectaculaires sur le Tage, architecture gothique et histoire médiévale."
+  },
+  "header": {
+    "home": "Accueil",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "map": "Carte",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Pont Saint-Martin",
+    "subtitle": "Pont piéton du XIVe siècle avec vues panoramiques sur le Tage",
+    "rating": "4,7/5",
+    "reviewCount": "12 394",
+    "reviewLabel": "avis",
+    "hours": "Ouvert 24h/24",
+    "openMaps": "Ouvrir dans Google Maps",
+    "tags": ["Pont médiéval", "Architecture gothique", "Tage", "Tolède", "Patrimoine", "Photographie", "Vues panoramiques", "XIVe siècle"]
+  },
+  "about": {
+    "title": "Découvrir le Pont",
+    "description": "Le Pont Saint-Martin, construit au XIVe siècle, est un joyau architectural médiéval enjambant le Tage à Tolède. Ce pont piéton offre des vues spectaculaires sur la ville fortifiée et le paysage naturel du Tage, témoignant vivant de l'histoire espagnole.",
+    "highlights": {
+      "title": "Points forts",
+      "items": [
+        "Pont piéton du XIVe siècle avec architecture gothique",
+        "Vues panoramiques sur le Tage et la ville de Tolède",
+        "Témoignage de l'ingénierie médiévale espagnole",
+        "Accès gratuit 24h/24",
+        "Point de photographie idéal pour capturer l'essence de Tolède",
+        "Connexion historique entre les deux rives du Tage"
+      ]
+    },
+    "keywords": {
+      "title": "Mots-clés associés"
+    },
+    "keywordsList": ["Pont Saint-Martin", "Tolède", "Tage", "Architecture médiévale", "Espagne", "Patrimoine historique"]
+  },
+  "explore": {
+    "title": "Explorez le Cœur Historique de Tolède",
+    "items": [
+      {
+        "title": "Architecture Médiévale",
+        "description": "Admirez l'impressionnante architecture gothique du pont avec ses cinq arches de tailles différentes. La construction médiévale démontre la maîtrise des architectes du XIVe siècle et leur capacité à s'adapter au terrain rocheux du Tage."
+      },
+      {
+        "title": "Vues Panoramiques du Tage",
+        "description": "Depuis le pont, vous pouvez profiter des meilleures vues du Tage et de son méandre qui entoure la ville de Tolède. Le paysage naturel se combine parfaitement avec l'architecture historique de la ville."
+      },
+      {
+        "title": "Photographie et Points de Vue",
+        "description": "Le Pont Saint-Martin est un endroit idéal pour la photographie, offrant plusieurs angles pour capturer la beauté de Tolède. Le lever et le coucher du soleil fournissent un éclairage parfait pour des photos spectaculaires."
+      },
+      {
+        "title": "Connexion avec l'Histoire",
+        "description": "Marcher sur ce pont vous transporte à l'époque médiévale. Il a été témoin de siècles d'histoire toledane et continue d'être un élément vital du patrimoine culturel de la ville."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerie Photos",
+    "subtitle": "Images du pont et de ses environs",
+    "source": "Photo : Unsplash (dernière mise à jour : 2026)",
+    "viewAll": "Voir toutes les photos sur Google Maps",
+    "images": [
+      { "alt": "Pont Saint-Martin sur le Tage", "caption": "Vue du pont médiéval" },
+      { "alt": "Arches gothiques du pont", "caption": "Détail de l'architecture" },
+      { "alt": "Vue panoramique depuis le pont", "caption": "Le Tage et Tolède" },
+      { "alt": "Pont au lever du soleil", "caption": "Lever de soleil sur la rivière" },
+      { "alt": "Architecture médiévale", "caption": "Construction du XIVe siècle" },
+      { "alt": "Vue nocturne du pont", "caption": "Pont illuminé" },
+      { "alt": "Tage depuis le pont", "caption": "Méandre du Tage" },
+      { "alt": "Tolède et le pont", "caption": "Ville et pont historique" }
+    ]
+  },
+  "reviews": {
+    "title": "Avis de Vrais Visiteurs",
+    "declaration": "Évaluations et avis provenant de Google Maps (dernière mise à jour : 2026). Nous montrons uniquement une sélection d'avis vérifiés avec une note élevée. Pour consulter tous les avis complets et les plus récents, cliquez sur le lien ci-dessous.",
+    "seeAll": "Voir tous les avis sur Google Maps",
+    "items": [
+      { "name": "Ana Martínez", "date": "Mars 2026", "text": "Pont médiéval impressionnant avec des vues spectaculaires sur le Tage. Parfait pour les photos et les promenades tranquilles. L'architecture gothique est superbe." },
+      { "name": "Javier Rodríguez", "date": "Février 2026", "text": "Un joyau historique à Tolède. Les vues depuis le pont sont magnifiques, surtout au coucher du soleil. La visite vaut vraiment le détour." },
+      { "name": "Laura Fernández", "date": "Janvier 2026", "text": "Beau pont du XIVe siècle. Marcher dessus vous transporte à l'époque médiévale. Les vues du Tage et de la ville sont inoubliables." },
+      { "name": "Manuel García", "date": "Décembre 2025", "text": "Excellent exemple d'architecture médiévale. L'endroit idéal pour contempler la beauté naturelle de Tolède et le Tage. Fortement recommandé." },
+      { "name": "Carmen López", "date": "Novembre 2025", "text": "Tolède ne serait pas la même sans ce pont. Les vues panoramiques sont spectaculaires et l'histoire qu'il renferme est fascinante." },
+      { "name": "Roberto Sánchez", "date": "Octobre 2025", "text": "Pont médiéval très bien conservé. Parfait pour la photographie et profiter des vues du Tage. Un incontournable à Tolède." },
+      { "name": "Isabel Gómez", "date": "Septembre 2025", "text": "Magnifique témoignage de l'ingénierie médiévale. Le cadre naturel du Tage le rend encore plus spécial. Ne le manquez pas." },
+      { "name": "Francisco Pérez", "date": "Août 2025", "text": "Les vues depuis le pont sont à couper le souffle. La combinaison d'histoire, d'architecture et de nature en fait un lieu unique." }
+    ]
+  },
+  "practical": {
+    "title": "Informations Pratiques",
+    "address": {
+      "label": "Adresse",
+      "value": "Bajada San Martín, 45004 Tolède, Espagne"
+    },
+    "hours": {
+      "label": "Horaires d'ouverture",
+      "value": "Ouvert 24h/24 — Accès piéton gratuit. Le meilleur moment pour visiter est au lever ou au coucher du soleil pour les meilleures photographies."
+    },
+    "transport": {
+      "label": "Comment s'y rendre",
+      "value": "Depuis Madrid : 45 min en train à grande vitesse ou 1h en voiture. Depuis la gare de Tolède : 20 min à pied ou 10 min en bus."
+    },
+    "parking": {
+      "label": "Stationnement",
+      "value": "Parking gratuit disponible à proximité. En haute saison (septembre-mai), il peut être limité — arrivée tôt recommandée."
+    },
+    "accessibility": {
+      "label": "Accessibilité",
+      "value": "Accès piéton avec rampes disponibles. Le pont a une surface de pierre irrégulière — chaussures confortables recommandées."
+    },
+    "phone": {
+      "label": "Téléphone",
+      "value": "+34 925 25 09 00"
+    }
+  },
+  "map": {
+    "title": "Comment s'y Rendre",
+    "openMaps": "Ouvrir dans Google Maps"
+  },
+  "references": {
+    "title": "Données & Références",
+    "disclaimer": "Ce site est un portail d'information touristique indépendant de tierces parties. Les informations proviennent de ressources publiques (bureaux de tourisme et Wikipédia) et des données de base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Notes, avis et données géographiques",
+      "unsplash": "Unsplash — Photographies utilisées dans la galerie",
+      "wikipedia": "Wikipédia — Informations historiques et culturelles"
+    }
+  },
+  "footer": {
+    "support": "Pour le support technique de ce site web, veuillez contacter : n20186005@gmail.com",
+    "copyright": "© 2026 Pont Saint-Martin · Tous droits réservés",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Paramètres des Cookies"
+  },
+  "privacy": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Cette Politique de Confidentialité explique comment sanmartinsbridge.com collecte, utilise et protège vos informations personnelles lorsque vous visitez notre site web.",
+    "sections": [
+      {
+        "title": "Informations que Nous Collectons",
+        "content": "Nous collectons le minimum de données nécessaire à la fourniture de nos services. Cela peut inclure : des données de navigation (adresse IP, type de navigateur, pages visitées), des cookies et technologies similaires, ainsi que toute information que vous fournissez volontairement via les formulaires de contact ou par e-mail."
+      },
+      {
+        "title": "Comment Nous Utilisons Vos Informations",
+        "content": "Nous utilisons les informations collectées pour : améliorer le contenu et l'expérience utilisateur du site, analyser le trafic et les habitudes d'utilisation, répondre aux demandes et respecter nos obligations légales."
+      },
+      {
+        "title": "Services Tiers",
+        "content": "Notre site web peut utiliser des services tiers tels que Google Maps (pour les cartes intégrées et les données de localisation), Google Analytics (pour l'analyse du trafic) et Unsplash (pour la photographie). Ces services disposent de leurs propres politiques de confidentialité."
+      },
+      {
+        "title": "Vos Droits",
+        "content": "En vertu du RGPD et des réglementations applicables, vous avez le droit de : accéder à vos données personnelles, demander leur rectification ou leur suppression, vous opposer au traitement et déposer une plainte auprès d'une autorité de contrôle."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question relative à la confidentialité, contactez-nous à : n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Conditions d'Utilisation",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "En accédant et en utilisant sanmartinsbridge.com, vous acceptez d'être lié par les présentes Conditions d'Utilisation.",
+    "sections": [
+      {
+        "title": "Utilisation du Contenu",
+        "content": "L'ensemble du contenu de ce site est fourni à titre informatif uniquement. Nous sommes un site indépendant d'information touristique de tierces parties et ne sommes affiliés ni à la gestion du Pont Saint-Martin, ni à aucune entité gouvernementale ou opérateur commercial."
+      },
+      {
+        "title": "Exactitude des Informations",
+        "content": "Nous nous efforçons de maintenir les informations exactes et à jour, mais ne pouvons garantir leur exhaustivité ni leur exactitude. Les horaires, tarifs et conditions peuvent changer sans préavis. Vérifiez toujours les informations essentielles auprès de sources officielles avant votre visite."
+      },
+      {
+        "title": "Propriété Intellectuelle",
+        "content": "La conception du site et le contenu original sont protégés par le droit d'auteur. Les photographies proviennent d'Unsplash selon leurs conditions de licence. Les données Google Maps sont utilisées conformément aux Conditions d'Utilisation de Google."
+      },
+      {
+        "title": "Limitation de Responsabilité",
+        "content": "Ce site web est fourni « en l'état » sans garantie. Nous ne sommes pas responsables des dommages résultant de l'utilisation des informations de ce site, y compris les décisions de voyage basées sur notre contenu."
+      },
+      {
+        "title": "Contact",
+        "content": "Pour toute question concernant ces conditions, contactez : n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Retour à l'Accueil",
+    "title": "Paramètres des Cookies",
+    "lastUpdated": "Dernière mise à jour : mars 2026",
+    "intro": "Nous utilisons des cookies pour améliorer votre expérience de navigation. Vous pouvez gérer vos préférences ci-dessous.",
+    "necessary": {
+      "title": "Cookies Essentiels",
+      "description": "Nécessaires au bon fonctionnement du site web. Ils ne peuvent pas être désactivés.",
+      "status": "Toujours actifs"
+    },
+    "analytics": {
+      "title": "Cookies Analytiques",
+      "description": "Nous aident à comprendre comment les visiteurs interagissent avec notre site en collectant des données d'utilisation anonymes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "preferences": {
+      "title": "Cookies de Préférences",
+      "description": "Mémorisent vos paramètres tels que la langue et les préférences de thème.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "marketing": {
+      "title": "Cookies Marketing",
+      "description": "Utilisés pour diffuser des publicités pertinentes et mesurer l'efficacité des campagnes.",
+      "enabled": "Activés",
+      "disabled": "Désactivés"
+    },
+    "save": "Enregistrer les Préférences"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

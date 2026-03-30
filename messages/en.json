@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "San Martin's Bridge — Toledo, Spain",
+    "description": "Complete guide to San Martin's Bridge: 14th-century pedestrian bridge with spectacular Tagus River views, Gothic architecture and medieval history."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "San Martin's Bridge",
+    "subtitle": "14th-century pedestrian bridge with sweeping views of the Tagus River",
+    "rating": "4.7/5",
+    "reviewCount": "12,394",
+    "reviewLabel": "reviews",
+    "hours": "Open 24 hours",
+    "openMaps": "Open on Google Maps",
+    "tags": ["Medieval Bridge", "Gothic Architecture", "Tagus River", "Toledo", "Heritage", "Photography", "Panoramic Views", "14th Century"]
+  },
+  "about": {
+    "title": "Discover the Bridge",
+    "description": "San Martin's Bridge, built in the 14th century, is a medieval architectural jewel spanning the Tagus River in Toledo. This pedestrian bridge offers spectacular views of the walled city and the natural Tagus landscape, serving as a living testament to Spanish history.",
+    "highlights": {
+      "title": "Highlights",
+      "items": [
+        "14th-century pedestrian bridge with Gothic architecture",
+        "Panoramic views of the Tagus River and Toledo city",
+        "Testament to medieval Spanish engineering",
+        "Free 24-hour public access",
+        "Ideal photography spot to capture Toledo's essence",
+        "Historic connection between Tagus River banks"
+      ]
+    },
+    "keywords": {
+      "title": "Related Keywords"
+    },
+    "keywordsList": ["San Martin's Bridge", "Toledo", "Tagus River", "Medieval Architecture", "Spain", "Historical Heritage"]
+  },
+  "explore": {
+    "title": "Explore Toledo's Historic Heart",
+    "items": [
+      {
+        "title": "Medieval Architecture",
+        "description": "Admire the impressive Gothic architecture of the bridge with its five arches of different sizes. The medieval construction demonstrates the mastery of 14th-century architects and their ability to adapt to the rocky Tagus terrain."
+      },
+      {
+        "title": "Panoramic Tagus River Views",
+        "description": "From the bridge you can enjoy the best views of the Tagus River and its meander that surrounds the city of Toledo. The natural landscape perfectly combines with the historic architecture of the city."
+      },
+      {
+        "title": "Photography and Viewpoints",
+        "description": "San Martin's Bridge is an ideal spot for photography, offering multiple angles to capture Toledo's beauty. Sunrise and sunset provide perfect lighting for spectacular photos."
+      },
+      {
+        "title": "Connection with History",
+        "description": "Walking across this bridge transports you to medieval times. It has witnessed centuries of Toledan history and continues to be a vital element of the city's cultural heritage."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Images of the bridge and surroundings",
+    "source": "Photo: Unsplash (last updated: 2026)",
+    "viewAll": "View all photos on Google Maps",
+    "images": [
+      { "alt": "San Martin's Bridge over the Tagus", "caption": "Medieval bridge view" },
+      { "alt": "Gothic arches of the bridge", "caption": "Architecture detail" },
+      { "alt": "Panoramic view from the bridge", "caption": "Tagus and Toledo" },
+      { "alt": "Bridge at sunrise", "caption": "Sunrise over the river" },
+      { "alt": "Medieval architecture", "caption": "14th century construction" },
+      { "alt": "Bridge night view", "caption": "Illuminated bridge" },
+      { "alt": "Tagus River from bridge", "caption": "Tagus meander" },
+      { "alt": "Toledo and the bridge", "caption": "City and historic bridge" }
+    ]
+  },
+  "reviews": {
+    "title": "Real Visitor Reviews",
+    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We show only a selection of verified high-rated reviews. To see all complete and most recent reviews, click the link below.",
+    "seeAll": "See all reviews on Google Maps",
+    "items": [
+      { "name": "Ana Martínez", "date": "March 2026", "text": "Impressive medieval bridge with spectacular views of the Tagus River. Perfect for photos and peaceful walks. The Gothic architecture is stunning." },
+      { "name": "Javier Rodríguez", "date": "February 2026", "text": "A historical gem in Toledo. The views from the bridge are magnificent, especially at sunset. Well worth the visit." },
+      { "name": "Laura Fernández", "date": "January 2026", "text": "Beautiful 14th-century bridge. Walking across it transports you to medieval times. The views of the Tagus and city are unforgettable." },
+      { "name": "Manuel García", "date": "December 2025", "text": "Excellent example of medieval architecture. The perfect place to contemplate Toledo's natural beauty and the Tagus River. Highly recommended." },
+      { "name": "Carmen López", "date": "November 2025", "text": "Toledo wouldn't be the same without this bridge. The panoramic views are spectacular and the history it holds is fascinating." },
+      { "name": "Roberto Sánchez", "date": "October 2025", "text": "Very well-preserved medieval bridge. Perfect for photography and enjoying Tagus views. A must-visit in Toledo." },
+      { "name": "Isabel Gómez", "date": "September 2025", "text": "Wonderful testament to medieval engineering. The natural Tagus setting makes it even more special. Don't miss it." },
+      { "name": "Francisco Pérez", "date": "August 2025", "text": "The views from the bridge are stunning. The combination of history, architecture, and nature makes it a unique place." }
+    ]
+  },
+  "practical": {
+    "title": "Practical Information",
+    "address": {
+      "label": "Address",
+      "value": "Bajada San Martín, 45004 Toledo, Spain"
+    },
+    "hours": {
+      "label": "Opening Hours",
+      "value": "Open 24 hours — Free pedestrian access. Best time to visit is sunrise or sunset for the best photography."
+    },
+    "transport": {
+      "label": "Getting There",
+      "value": "From Madrid: 45 min by high-speed train or 1 hour by car. From Toledo station: 20 min walk or 10 min by bus."
+    },
+    "parking": {
+      "label": "Parking",
+      "value": "Free parking available nearby. In peak season (September-May) it can be limited — arrive early recommended."
+    },
+    "accessibility": {
+      "label": "Accessibility",
+      "value": "Pedestrian access with ramps available. Bridge has uneven stone surface — comfortable footwear recommended."
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+34 925 25 09 00"
+    }
+  },
+  "map": {
+    "title": "How to Get Here",
+    "openMaps": "Open on Google Maps"
+  },
+  "references": {
+    "title": "Data & References",
+    "disclaimer": "This site is an independent third-party tourist information portal. Information is drawn from public resources (tourism offices and Wikipedia) and Google Maps baseline data.",
+    "sources": {
+      "google": "Google Maps — Ratings, reviews and geographic data",
+      "unsplash": "Unsplash — Photographs used in the gallery",
+      "wikipedia": "Wikipedia — Historical and cultural information"
+    }
+  },
+  "footer": {
+    "support": "For technical support for this website, please contact: n20186005@gmail.com",
+    "copyright": "© 2026 San Martin's Bridge · All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "privacy": {
+    "backHome": "Back to Home",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "This Privacy Policy explains how sanmartinsbridge.com collects, uses, and protects your personal information when you visit our website.",
+    "sections": [
+      {
+        "title": "Information We Collect",
+        "content": "We collect minimal data necessary to provide our services. This may include: browsing data (IP address, browser type, pages visited), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "title": "How We Use Your Information",
+        "content": "We use collected information to: improve website content and user experience, analyse site traffic and usage patterns, respond to inquiries, and comply with legal obligations."
+      },
+      {
+        "title": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for photography). These services have their own privacy policies."
+      },
+      {
+        "title": "Your Rights",
+        "content": "Under GDPR and applicable regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      },
+      {
+        "title": "Contact",
+        "content": "For privacy-related questions, contact us at: n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Back to Home",
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "By accessing and using sanmartinsbridge.com, you agree to be bound by these Terms of Service.",
+    "sections": [
+      {
+        "title": "Use of Content",
+        "content": "All content on this site is provided for informational purposes only. We are an independent third-party tourism information site and are not affiliated with San Martin's Bridge management, any government entity, or commercial operator."
+      },
+      {
+        "title": "Accuracy of Information",
+        "content": "We strive to keep information accurate and up-to-date, but cannot guarantee completeness or accuracy. Opening hours, prices, and conditions may change without notice. Always verify critical details with official sources before your visit."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "Website design and original content are protected by copyright. Photographs are sourced from Unsplash under their licence terms. Google Maps data is used under Google's Terms of Service."
+      },
+      {
+        "title": "Limitation of Liability",
+        "content": "This website is provided 'as is' without warranties. We are not liable for any damages arising from the use of information on this site, including but not limited to travel decisions based on our content."
+      },
+      {
+        "title": "Contact",
+        "content": "For questions about these terms, contact: n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Back to Home",
+    "title": "Cookie Settings",
+    "lastUpdated": "Last updated: March 2026",
+    "intro": "We use cookies to enhance your browsing experience. You can manage your preferences below.",
+    "necessary": {
+      "title": "Essential Cookies",
+      "description": "Required for the website to function properly. These cannot be disabled.",
+      "status": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "Remember your settings such as language and theme preferences.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to deliver relevant advertisements and track campaign effectiveness.",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "save": "Save Preferences"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}

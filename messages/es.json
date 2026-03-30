@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "title": "Puente de San Martín — Toledo, España",
+    "description": "Guía completa del Puente de San Martín: puente medieval peatonal con vistas espectaculares del río Tajo, historia del siglo XIV y arquitectura gótica."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "cookies": "Cookies"
+  },
+  "hero": {
+    "title": "Puente de San Martín",
+    "subtitle": "Puente peatonal del siglo XIV con vistas panorámicas del río Tajo",
+    "rating": "4.7/5",
+    "reviewCount": "12,394",
+    "reviewLabel": "reseñas",
+    "hours": "Abierto las 24 horas",
+    "openMaps": "Abrir en Google Maps",
+    "tags": ["Puente medieval", "Arquitectura gótica", "Río Tajo", "Toledo", "Patrimonio", "Fotografía", "Vistas panorámicas", "Siglo XIV"]
+  },
+  "about": {
+    "title": "Descubre el Puente",
+    "description": "El Puente de San Martín, construido en el siglo XIV, es una joya arquitectónica medieval que se alza sobre el río Tajo en Toledo. Este puente peatonal ofrece vistas espectaculares de la ciudad amurallada y el paisaje natural del Tajo, siendo un testimonio vivo de la historia española.",
+    "highlights": {
+      "title": "Destacados",
+      "items": [
+        "Puente peatonal del siglo XIV con arquitectura gótica",
+        "Vistas panorámicas del río Tajo y la ciudad de Toledo",
+        "Testimonio de la ingeniería medieval española",
+        "Acceso gratuito las 24 horas del día",
+        "Punto de fotografía ideal para capturar la esencia de Toledo",
+        "Conexión histórica entre las dos orillas del Tajo"
+      ]
+    },
+    "keywords": {
+      "title": "Palabras clave relacionadas"
+    },
+    "keywordsList": ["Puente San Martín", "Toledo", "Río Tajo", "Arquitectura medieval", "España", "Patrimonio histórico"]
+  },
+  "explore": {
+    "title": "Explora el Corazón Histórico de Toledo",
+    "items": [
+      {
+        "title": "Arquitectura Medieval",
+        "description": "Admira la impresionante arquitectura gótica del puente con sus cinco arcos de diferentes tamaños. La construcción medieval demuestra la maestría de los arquitectos del siglo XIV y su capacidad para adaptarse al terreno rocoso del Tajo."
+      },
+      {
+        "title": "Vistas Panorámicas del Río Tajo",
+        "description": "Desde el puente se pueden contemplar las mejores vistas del río Tajo y su meandro que rodea la ciudad de Toledo. El paisaje natural combina perfectamente con la arquitectura histórica de la ciudad."
+      },
+      {
+        "title": "Fotografía y Puntos de Vista",
+        "description": "El Puente de San Martín es un lugar ideal para la fotografía, ofreciendo múltiples ángulos para capturar la belleza de Toledo. El amanecer y el atardecer proporcionan la luz perfecta para fotos espectaculares."
+      },
+      {
+        "title": "Conexión con la Historia",
+        "description": "Caminar sobre este puente es trasladarse a la época medieval. Ha sido testigo de siglos de historia toledana y continúa siendo un elemento vital del patrimonio cultural de la ciudad."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Fotos",
+    "subtitle": "Imágenes del puente y sus alrededores",
+    "source": "Foto: Unsplash (última actualización: 2026)",
+    "viewAll": "Ver todas las fotos en Google Maps",
+    "images": [
+      { "alt": "Puente de San Martín sobre el Tajo", "caption": "Vista del puente medieval" },
+      { "alt": "Arcos góticos del puente", "caption": "Detalle de la arquitectura" },
+      { "alt": "Vista panorámica desde el puente", "caption": "El Tajo y Toledo" },
+      { "alt": "Puente al amanecer", "caption": "Amanecer sobre el río" },
+      { "alt": "Arquitectura medieval", "caption": "Construcción del siglo XIV" },
+      { "alt": "Vista nocturna del puente", "caption": "Puente iluminado" },
+      { "alt": "Río Tajo desde el puente", "caption": "Meandro del Tajo" },
+      { "alt": "Toledo y el puente", "caption": "Ciudad y puente histórico" }
+    ]
+  },
+  "reviews": {
+    "title": "Reseñas Reales de Visitantes",
+    "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
+    "seeAll": "Ver todas las reseñas en Google Maps",
+    "items": [
+      { "name": "Ana Martínez", "date": "Marzo 2026", "text": "Impresionante puente medieval con vistas espectaculares del río Tajo. Perfecto para fotos y paseos tranquilos. La arquitectura gótica es impresionante." },
+      { "name": "Javier Rodríguez", "date": "Febrero 2026", "text": "Una joya histórica en Toledo. Las vistas desde el puente son magníficas, especialmente al atardecer. Merece mucho la pena la visita." },
+      { "name": "Laura Fernández", "date": "Enero 2026", "text": "Precioso puente del siglo XIV. La caminata sobre él te transporta a la época medieval. Las vistas del Tajo y la ciudad son inolvidables." },
+      { "name": "Manuel García", "date": "Diciembre 2025", "text": "Excelente ejemplo de arquitectura medieval. El lugar ideal para contemplar la belleza natural de Toledo y el río Tajo. Altamente recomendado." },
+      { "name": "Carmen López", "date": "Noviembre 2025", "text": "Toledo no sería lo mismo sin este puente. Las vistas panorámicas son espectaculares y la historia que guarda es fascinante." },
+      { "name": "Roberto Sánchez", "date": "Octubre 2025", "text": "Puente medieval muy bien conservado. Perfecto para fotografías y disfrutar de las vistas del Tajo. Un must en la visita a Toledo." },
+      { "name": "Isabel Gómez", "date": "Septiembre 2025", "text": "Maravilloso testimonio de la ingeniería medieval. El entorno natural del Tajo lo hace aún más especial. No te lo pierdas." },
+      { "name": "Francisco Pérez", "date": "Agosto 2025", "text": "Las vistas desde el puente son impresionantes. La combinación de historia, arquitectura y naturaleza lo convierten en un lugar único." }
+    ]
+  },
+  "practical": {
+    "title": "Información Práctica",
+    "address": {
+      "label": "Dirección",
+      "value": "Bajada San Martín, 45004 Toledo, España"
+    },
+    "hours": {
+      "label": "Horario de apertura",
+      "value": "Abierto las 24 horas — Acceso peatonal gratuito. El mejor momento para visitar es al amanecer o atardecer para las mejores fotografías."
+    },
+    "transport": {
+      "label": "Cómo llegar",
+      "value": "Desde Madrid: 45 min en tren de alta velocidad o 1 hora en coche. Desde la estación de Toledo: 20 min caminando o 10 min en autobús."
+    },
+    "parking": {
+      "label": "Aparcamiento",
+      "value": "Aparcamiento gratuito disponible en las inmediaciones. En temporada alta (septiembre-mayo) puede ser limitado — se recomienda llegar temprano."
+    },
+    "accessibility": {
+      "label": "Accesibilidad",
+      "value": "Acceso peatonal con rampas disponibles. El puente tiene superficie de piedra irregular — se recomienda calzado cómodo."
+    },
+    "phone": {
+      "label": "Teléfono",
+      "value": "+34 925 25 09 00"
+    }
+  },
+  "map": {
+    "title": "Cómo Llegar",
+    "openMaps": "Abrir en Google Maps"
+  },
+  "references": {
+    "title": "Datos y Referencias",
+    "disclaimer": "Este sitio es un portal independiente de información turística de terceros. La información proviene de recursos públicos (oficinas de turismo y Wikipedia) y datos base de Google Maps.",
+    "sources": {
+      "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
+      "unsplash": "Unsplash — Fotografías utilizadas en la galería",
+      "wikipedia": "Wikipedia — Información histórica y cultural"
+    }
+  },
+  "footer": {
+    "support": "Para soporte técnico de este sitio web, contacta con: n20186005@gmail.com",
+    "copyright": "© 2026 Puente de San Martín · Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies"
+  },
+  "privacy": {
+    "backHome": "Volver al Inicio",
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Esta Política de Privacidad explica cómo sanmartinsbridge.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web.",
+    "sections": [
+      {
+        "title": "Información que Recopilamos",
+        "content": "Recopilamos los datos mínimos necesarios para ofrecer nuestros servicios. Esto puede incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, así como cualquier información que proporciones voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "title": "Cómo Utilizamos tu Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido y la experiencia de usuario del sitio, analizar el tráfico y los patrones de uso, responder a las solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "title": "Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). Estos servicios disponen de sus propias políticas de privacidad."
+      },
+      {
+        "title": "Tus Derechos",
+        "content": "En virtud del RGPD y de las regulaciones aplicables, tienes derecho a: acceder a tus datos personales, solicitar su rectificación o eliminación, oponerte al tratamiento y presentar una queja ante una autoridad de control."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para cualquier pregunta relacionada con la privacidad, contáctanos en: n20186005@gmail.com"
+      }
+    ]
+  },
+  "terms": {
+    "backHome": "Volver al Inicio",
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Al acceder y utilizar sanmartinsbridge.com, aceptas quedar vinculado por estos Términos de Servicio.",
+    "sections": [
+      {
+        "title": "Uso del Contenido",
+        "content": "Todo el contenido de este sitio se proporciona únicamente con fines informativos. Somos un sitio independiente de información turística de terceros y no estamos afiliados a la gestión del Puente de San Martín, a ninguna entidad gubernamental ni a ningún operador comercial."
+      },
+      {
+        "title": "Exactitud de la Información",
+        "content": "Nos esforzamos por mantener la información precisa y actualizada, pero no podemos garantizar su integridad ni exactitud. Los horarios, precios y condiciones pueden cambiar sin previo aviso. Verifica siempre los datos importantes con fuentes oficiales antes de tu visita."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "content": "El diseño del sitio web y el contenido original están protegidos por derechos de autor. Las fotografías proceden de Unsplash según sus términos de licencia. Los datos de Google Maps se utilizan conforme a las Condiciones de Servicio de Google."
+      },
+      {
+        "title": "Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona «en el estado en que se encuentra» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo, entre otros, decisiones de viaje basadas en nuestro contenido."
+      },
+      {
+        "title": "Contacto",
+        "content": "Para preguntas sobre estos términos, contacta con: n20186005@gmail.com"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "backHome": "Volver al Inicio",
+    "title": "Configuración de Cookies",
+    "lastUpdated": "Última actualización: marzo 2026",
+    "intro": "Utilizamos cookies para mejorar tu experiencia de navegación. Puedes gestionar tus preferencias a continuación.",
+    "necessary": {
+      "title": "Cookies Esenciales",
+      "description": "Necesarias para el correcto funcionamiento del sitio web. No se pueden desactivar.",
+      "status": "Siempre activas"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a entender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "preferences": {
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan tus ajustes como el idioma y las preferencias de tema.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar publicidad relevante y medir la eficacia de las campañas.",
+      "enabled": "Activadas",
+      "disabled": "Desactivadas"
+    },
+    "save": "Guardar Preferencias"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "zh-Hant": "繁體中文"
+  }
+}
