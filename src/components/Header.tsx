@@ -9,7 +9,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md" style={{ backgroundColor: 'color-mix(in srgb, var(--bg-primary) 85%, transparent)' }}>
       <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#" className="font-serif text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>
-          Port d'Eivissa
+          San Martin's Bridge
         </a>
         <nav className="hidden md:flex items-center gap-6 text-sm" style={{ color: 'var(--text-secondary)' }}>
           <a href="#about" className="hover:opacity-70 transition-opacity">{t('home')}</a>

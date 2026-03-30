@@ -13,14 +13,17 @@ export function generateStaticParams() {
 export async function generateMetadata({ params: { locale } }: { params: { locale: string } }) {
   const t = await getTranslations({ locale, namespace: 'meta' });
   return {
+    metadataBase: new URL('https://sanmartinsbridge.com'),
     title: t('title'),
     description: t('description'),
     alternates: {
+      canonical: locale === 'es' ? '/' : `/${locale}`,
       languages: {
         'es': '/',
         'en': '/en',
         'fr': '/fr',
         'zh-Hant': '/zh-Hant',
+        'x-default': '/',
       },
     },
   };
@@ -41,11 +44,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
-        <link rel="alternate" hrefLang="es" href="https://sanmartinsbridge.com" />
-        <link rel="alternate" hrefLang="en" href="https://sanmartinsbridge.com/en" />
-        <link rel="alternate" hrefLang="fr" href="https://sanmartinsbridge.com/fr" />
-        <link rel="alternate" hrefLang="zh-Hant" href="https://sanmartinsbridge.com/zh-Hant" />
-        <link rel="alternate" hrefLang="x-default" href="https://sanmartinsbridge.com" />
         <script dangerouslySetInnerHTML={{
           __html: `
             (function() {
