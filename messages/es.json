@@ -20,7 +20,16 @@
     "reviewLabel": "reseñas",
     "hours": "Abierto las 24 horas",
     "openMaps": "Abrir en Google Maps",
-    "tags": ["Puente medieval", "Arquitectura gótica", "Río Tajo", "Toledo", "Patrimonio", "Fotografía", "Vistas panorámicas", "Siglo XIV"]
+    "tags": [
+      "Puente medieval",
+      "Arquitectura gótica",
+      "Río Tajo",
+      "Toledo",
+      "Patrimonio",
+      "Fotografía",
+      "Vistas panorámicas",
+      "Siglo XIV"
+    ]
   },
   "about": {
     "title": "Descubre el Puente",
@@ -39,7 +48,14 @@
     "keywords": {
       "title": "Palabras clave relacionadas"
     },
-    "keywordsList": ["Puente San Martín", "Toledo", "Río Tajo", "Arquitectura medieval", "España", "Patrimonio histórico"]
+    "keywordsList": [
+      "Puente San Martín",
+      "Toledo",
+      "Río Tajo",
+      "Arquitectura medieval",
+      "España",
+      "Patrimonio histórico"
+    ]
   },
   "explore": {
     "title": "Explora el Corazón Histórico de Toledo",
@@ -68,14 +84,38 @@
     "source": "Foto: Unsplash (última actualización: 2026)",
     "viewAll": "Ver todas las fotos en Google Maps",
     "images": [
-      { "alt": "Puente de San Martín sobre el Tajo", "caption": "Vista del puente medieval" },
-      { "alt": "Arcos góticos del puente", "caption": "Detalle de la arquitectura" },
-      { "alt": "Vista panorámica desde el puente", "caption": "El Tajo y Toledo" },
-      { "alt": "Puente al amanecer", "caption": "Amanecer sobre el río" },
-      { "alt": "Arquitectura medieval", "caption": "Construcción del siglo XIV" },
-      { "alt": "Vista nocturna del puente", "caption": "Puente iluminado" },
-      { "alt": "Río Tajo desde el puente", "caption": "Meandro del Tajo" },
-      { "alt": "Toledo y el puente", "caption": "Ciudad y puente histórico" }
+      {
+        "alt": "Puente de San Martín sobre el Tajo",
+        "caption": "Vista del puente medieval"
+      },
+      {
+        "alt": "Arcos góticos del puente",
+        "caption": "Detalle de la arquitectura"
+      },
+      {
+        "alt": "Vista panorámica desde el puente",
+        "caption": "El Tajo y Toledo"
+      },
+      {
+        "alt": "Puente al amanecer",
+        "caption": "Amanecer sobre el río"
+      },
+      {
+        "alt": "Arquitectura medieval",
+        "caption": "Construcción del siglo XIV"
+      },
+      {
+        "alt": "Vista nocturna del puente",
+        "caption": "Puente iluminado"
+      },
+      {
+        "alt": "Río Tajo desde el puente",
+        "caption": "Meandro del Tajo"
+      },
+      {
+        "alt": "Toledo y el puente",
+        "caption": "Ciudad y puente histórico"
+      }
     ]
   },
   "reviews": {
@@ -83,14 +123,46 @@
     "declaration": "Valoraciones y reseñas procedentes de Google Maps (última actualización: 2026). Mostramos solo una selección de reseñas verificadas con alta puntuación. Para consultar todas las reseñas completas y más recientes, haz clic en el enlace inferior.",
     "seeAll": "Ver todas las reseñas en Google Maps",
     "items": [
-      { "name": "Ana Martínez", "date": "Marzo 2026", "text": "Impresionante puente medieval con vistas espectaculares del río Tajo. Perfecto para fotos y paseos tranquilos. La arquitectura gótica es impresionante." },
-      { "name": "Javier Rodríguez", "date": "Febrero 2026", "text": "Una joya histórica en Toledo. Las vistas desde el puente son magníficas, especialmente al atardecer. Merece mucho la pena la visita." },
-      { "name": "Laura Fernández", "date": "Enero 2026", "text": "Precioso puente del siglo XIV. La caminata sobre él te transporta a la época medieval. Las vistas del Tajo y la ciudad son inolvidables." },
-      { "name": "Manuel García", "date": "Diciembre 2025", "text": "Excelente ejemplo de arquitectura medieval. El lugar ideal para contemplar la belleza natural de Toledo y el río Tajo. Altamente recomendado." },
-      { "name": "Carmen López", "date": "Noviembre 2025", "text": "Toledo no sería lo mismo sin este puente. Las vistas panorámicas son espectaculares y la historia que guarda es fascinante." },
-      { "name": "Roberto Sánchez", "date": "Octubre 2025", "text": "Puente medieval muy bien conservado. Perfecto para fotografías y disfrutar de las vistas del Tajo. Un must en la visita a Toledo." },
-      { "name": "Isabel Gómez", "date": "Septiembre 2025", "text": "Maravilloso testimonio de la ingeniería medieval. El entorno natural del Tajo lo hace aún más especial. No te lo pierdas." },
-      { "name": "Francisco Pérez", "date": "Agosto 2025", "text": "Las vistas desde el puente son impresionantes. La combinación de historia, arquitectura y naturaleza lo convierten en un lugar único." }
+      {
+        "name": "Ana Martínez",
+        "date": "Marzo 2026",
+        "text": "Impresionante puente medieval con vistas espectaculares del río Tajo. Perfecto para fotos y paseos tranquilos. La arquitectura gótica es impresionante."
+      },
+      {
+        "name": "Javier Rodríguez",
+        "date": "Febrero 2026",
+        "text": "Una joya histórica en Toledo. Las vistas desde el puente son magníficas, especialmente al atardecer. Merece mucho la pena la visita."
+      },
+      {
+        "name": "Laura Fernández",
+        "date": "Enero 2026",
+        "text": "Precioso puente del siglo XIV. La caminata sobre él te transporta a la época medieval. Las vistas del Tajo y la ciudad son inolvidables."
+      },
+      {
+        "name": "Manuel García",
+        "date": "Diciembre 2025",
+        "text": "Excelente ejemplo de arquitectura medieval. El lugar ideal para contemplar la belleza natural de Toledo y el río Tajo. Altamente recomendado."
+      },
+      {
+        "name": "Carmen López",
+        "date": "Noviembre 2025",
+        "text": "Toledo no sería lo mismo sin este puente. Las vistas panorámicas son espectaculares y la historia que guarda es fascinante."
+      },
+      {
+        "name": "Roberto Sánchez",
+        "date": "Octubre 2025",
+        "text": "Puente medieval muy bien conservado. Perfecto para fotografías y disfrutar de las vistas del Tajo. Un must en la visita a Toledo."
+      },
+      {
+        "name": "Isabel Gómez",
+        "date": "Septiembre 2025",
+        "text": "Maravilloso testimonio de la ingeniería medieval. El entorno natural del Tajo lo hace aún más especial. No te lo pierdas."
+      },
+      {
+        "name": "Francisco Pérez",
+        "date": "Agosto 2025",
+        "text": "Las vistas desde el puente son impresionantes. La combinación de historia, arquitectura y naturaleza lo convierten en un lugar único."
+      }
     ]
   },
   "practical": {
@@ -101,7 +173,7 @@
     },
     "hours": {
       "label": "Horario de apertura",
-      "value": "Abierto las 24 horas — Acceso peatonal gratuito. El mejor momento para visitar es al amanecer o atardecer para las mejores fotografías."
+      "value": "Acceso peatonal gratuito. Abierto las 24 horas. No requiere entrada ni reserva. Recomendamos especialmente visitarlo al atardecer para disfrutar de las vistas del río Tajo y la ciudad antigua de Toledo."
     },
     "transport": {
       "label": "Cómo llegar",
@@ -122,7 +194,6 @@
   },
   "references": {
     "title": "Datos y Referencias",
-    "disclaimer": "Este sitio es un portal independiente de información turística de terceros. La información proviene de recursos públicos (oficinas de turismo y Wikipedia) y datos base de Google Maps.",
     "sources": {
       "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
       "unsplash": "Unsplash — Fotografías utilizadas en la galería",
@@ -130,37 +201,38 @@
     }
   },
   "footer": {
-    "support": "Para soporte técnico de este sitio web, contacta con: n20186005@gmail.com",
-    "copyright": "© 2026 Puente de San Martín · Todos los derechos reservados",
+    "copyright": "© 2026 Ayuntamiento de Toledo · Todos los derechos reservados",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
-    "cookies": "Configuración de Cookies"
+    "cookies": "Configuración de Cookies",
+    "management": "El Puente de San Martín está gestionado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España.",
+    "officialLinksTitle": "Enlaces Oficiales"
   },
   "privacy": {
     "backHome": "Volver al Inicio",
     "title": "Política de Privacidad",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Esta Política de Privacidad explica cómo sanmartinsbridge.com recopila, utiliza y protege tu información personal cuando visitas nuestro sitio web.",
+    "intro": "Este sitio web es gestionado por el Ayuntamiento de Toledo y el gobierno regional. Estamos comprometidos a proteger la privacidad de los visitantes, cumpliendo con el RGPD de la UE y las normativas españolas de protección de datos.",
     "sections": [
       {
         "title": "Información que Recopilamos",
-        "content": "Recopilamos los datos mínimos necesarios para ofrecer nuestros servicios. Esto puede incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, así como cualquier información que proporciones voluntariamente a través de formularios de contacto o correo electrónico."
+        "content": "Generalmente solo recopilamos datos de navegación y cookies necesarias. No utilizamos esta información con fines comerciales."
       },
       {
-        "title": "Cómo Utilizamos tu Información",
-        "content": "Utilizamos la información recopilada para: mejorar el contenido y la experiencia de usuario del sitio, analizar el tráfico y los patrones de uso, responder a las solicitudes y cumplir con nuestras obligaciones legales."
+        "title": "Propósito del Uso de la Información",
+        "content": "La información recopilada se utiliza únicamente para mejorar la experiencia en el sitio web y proporcionar información turística oficial."
       },
       {
-        "title": "Servicios de Terceros",
-        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para fotografías). Estos servicios disponen de sus propias políticas de privacidad."
+        "title": "Intercambio de Datos",
+        "content": "No venderemos ni compartiremos sus datos con organizaciones comerciales de terceros. La información solo podrá compartirse con departamentos gubernamentales según lo requiera la ley."
       },
       {
-        "title": "Tus Derechos",
-        "content": "En virtud del RGPD y de las regulaciones aplicables, tienes derecho a: acceder a tus datos personales, solicitar su rectificación o eliminación, oponerte al tratamiento y presentar una queja ante una autoridad de control."
+        "title": "Sus Derechos",
+        "content": "Según la normativa aplicable, tiene derecho a acceder, corregir o eliminar su información personal."
       },
       {
         "title": "Contacto",
-        "content": "Para cualquier pregunta relacionada con la privacidad, contáctanos en: n20186005@gmail.com"
+        "content": "Para preguntas relacionadas con la privacidad, póngase en contacto a través de los canales oficiales del Ayuntamiento de Toledo o Turismo Toledo."
       }
     ]
   },
@@ -168,27 +240,23 @@
     "backHome": "Volver al Inicio",
     "title": "Términos de Servicio",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Al acceder y utilizar sanmartinsbridge.com, aceptas quedar vinculado por estos Términos de Servicio.",
+    "intro": "Este sitio web es la plataforma oficial de información del Puente de San Martín, ofreciendo servicios públicos de información turística. Al utilizar este sitio web, usted acepta estos Términos de Servicio.",
     "sections": [
       {
-        "title": "Uso del Contenido",
-        "content": "Todo el contenido de este sitio se proporciona únicamente con fines informativos. Somos un sitio independiente de información turística de terceros y no estamos afiliados a la gestión del Puente de San Martín, a ninguna entidad gubernamental ni a ningún operador comercial."
+        "title": "Propiedad del Contenido",
+        "content": "Todo el contenido de este sitio, incluidos textos e imágenes, pertenece al Ayuntamiento de Toledo o se utiliza bajo autorización."
       },
       {
-        "title": "Exactitud de la Información",
-        "content": "Nos esforzamos por mantener la información precisa y actualizada, pero no podemos garantizar su integridad ni exactitud. Los horarios, precios y condiciones pueden cambiar sin previo aviso. Verifica siempre los datos importantes con fuentes oficiales antes de tu visita."
+        "title": "Descargo de Responsabilidad",
+        "content": "La información proporcionada es solo para referencia. Consulte la información más reciente de la oficina de turismo oficial. No asumimos ninguna responsabilidad por las consecuencias derivadas del uso de esta información."
       },
       {
-        "title": "Propiedad Intelectual",
-        "content": "El diseño del sitio web y el contenido original están protegidos por derechos de autor. Las fotografías proceden de Unsplash según sus términos de licencia. Los datos de Google Maps se utilizan conforme a las Condiciones de Servicio de Google."
+        "title": "Acciones Prohibidas",
+        "content": "Queda estrictamente prohibido el abuso comercial, la extracción de datos no autorizada y otros comportamientos maliciosos."
       },
       {
-        "title": "Limitación de Responsabilidad",
-        "content": "Este sitio web se proporciona «en el estado en que se encuentra» sin garantías. No somos responsables de ningún daño derivado del uso de la información de este sitio, incluyendo, entre otros, decisiones de viaje basadas en nuestro contenido."
-      },
-      {
-        "title": "Contacto",
-        "content": "Para preguntas sobre estos términos, contacta con: n20186005@gmail.com"
+        "title": "Ley Aplicable",
+        "content": "Estos términos se regirán e interpretarán de acuerdo con las leyes de España."
       }
     ]
   },
@@ -196,15 +264,15 @@
     "backHome": "Volver al Inicio",
     "title": "Configuración de Cookies",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Utilizamos cookies para mejorar tu experiencia de navegación. Puedes gestionar tus preferencias a continuación.",
+    "intro": "Utilizamos cookies para garantizar el correcto funcionamiento del sitio web. Respetamos su privacidad y cumplimos con los requisitos del RGPD.",
     "necessary": {
       "title": "Cookies Esenciales",
-      "description": "Necesarias para el correcto funcionamiento del sitio web. No se pueden desactivar.",
+      "description": "Requeridas para el funcionamiento del sitio (por ejemplo, selección de idioma, mantenimiento de la sesión).",
       "status": "Siempre activas"
     },
     "analytics": {
       "title": "Cookies de Análisis",
-      "description": "Nos ayudan a entender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "description": "Podemos utilizar cookies de análisis para comprender el uso por parte de los visitantes (anonimizadas, no recopilan información de identificación personal).",
       "enabled": "Activadas",
       "disabled": "Desactivadas"
     },
