@@ -10,9 +10,6 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto text-center">
         
         <div className="mb-10">
-          <h3 className="text-sm font-bold mb-6 uppercase tracking-wider" style={{ color: 'var(--text-primary)' }}>
-            {t('officialLinksTitle')}
-          </h3>
           <div className="flex flex-col sm:flex-row flex-wrap justify-center gap-6 text-sm font-medium">
             <a href="https://cultura.castillalamancha.es/patrimonio/catalogo-patrimonio-cultural/puente-de-san-martin-de-toledo" target="_blank" rel="noopener noreferrer" className="hover:underline flex items-center justify-center gap-2" style={{ color: 'var(--accent)' }}>
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h6"></path><polyline points="21 3 14 3 14 10"></polyline><line x1="21" y1="3" x2="10" y2="14"></line></svg>
