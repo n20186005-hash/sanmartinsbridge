@@ -231,6 +231,10 @@
         "content": "Under applicable regulations, you have the right to access, correct, or delete your personal information."
       },
       {
+        "title": "Third-Party Services",
+        "content": "This website uses Google Maps to provide geographical location, addresses, and navigation information. When you use these features, Google may collect your IP address and location data according to their own privacy policies. We do not control Google's data processing activities."
+      },
+      {
         "title": "Contact",
         "content": "For privacy-related questions, please contact the official channels of the Ayuntamiento de Toledo or Turismo Toledo."
       }
@@ -257,6 +261,10 @@
       {
         "title": "Governing Law",
         "content": "These terms shall be governed by and construed in accordance with the laws of Spain."
+      },
+      {
+        "title": "External Links and Third-Party Services",
+        "content": "Our website contains links to external services, including Google Maps. These services are governed by their respective terms and privacy policies. The Ayuntamiento de Toledo assumes no responsibility for the content, privacy practices, or data processing of any third-party websites or services."
       }
     ]
   },
@@ -272,7 +280,7 @@
     },
     "analytics": {
       "title": "Analytics Cookies",
-      "description": "We may use analytics cookies to understand visitor usage (anonymized, no personal identifiable information collected).",
+      "description": "We may use analytics cookies to understand visitor usage (anonymized, no personal identifiable information collected). This includes cookies set by third-party services like Google Maps to provide mapping functionalities.",
       "enabled": "Enabled",
       "disabled": "Disabled"
     },

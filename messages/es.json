@@ -231,6 +231,10 @@
         "content": "Según la normativa aplicable, tiene derecho a acceder, corregir o eliminar su información personal."
       },
       {
+        "title": "Servicios de Terceros",
+        "content": "Este sitio web utiliza Google Maps para proporcionar ubicación geográfica, direcciones e información de navegación. Al utilizar estas funciones, Google puede recopilar su dirección IP y datos de ubicación de acuerdo con sus propias políticas de privacidad. No controlamos las actividades de procesamiento de datos de Google."
+      },
+      {
         "title": "Contacto",
         "content": "Para preguntas relacionadas con la privacidad, póngase en contacto a través de los canales oficiales del Ayuntamiento de Toledo o Turismo Toledo."
       }
@@ -257,6 +261,10 @@
       {
         "title": "Ley Aplicable",
         "content": "Estos términos se regirán e interpretarán de acuerdo con las leyes de España."
+      },
+      {
+        "title": "Enlaces Externos y Servicios de Terceros",
+        "content": "Nuestro sitio web contiene enlaces a servicios externos, incluido Google Maps. Estos servicios se rigen por sus respectivos términos y políticas de privacidad. El Ayuntamiento de Toledo no asume ninguna responsabilidad por el contenido, las prácticas de privacidad o el procesamiento de datos de sitios web o servicios de terceros."
       }
     ]
   },
@@ -272,7 +280,7 @@
     },
     "analytics": {
       "title": "Cookies de Análisis",
-      "description": "Podemos utilizar cookies de análisis para comprender el uso por parte de los visitantes (anonimizadas, no recopilan información de identificación personal).",
+      "description": "Podemos utilizar cookies de análisis para comprender el uso por parte de los visitantes (anonimizadas, no recopilan información de identificación personal). Esto incluye las cookies establecidas por servicios de terceros como Google Maps para proporcionar funcionalidades de mapas.",
       "enabled": "Activadas",
       "disabled": "Desactivadas"
     },

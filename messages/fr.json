@@ -231,6 +231,10 @@
         "content": "En vertu de la réglementation applicable, vous avez le droit d'accéder, de corriger ou de supprimer vos informations personnelles."
       },
       {
+        "title": "Services Tiers",
+        "content": "Ce site web utilise Google Maps pour fournir des informations sur la localisation géographique, les adresses et la navigation. Lorsque vous utilisez ces fonctionnalités, Google peut collecter votre adresse IP et vos données de localisation conformément à ses propres politiques de confidentialité. Nous ne contrôlons pas les activités de traitement des données de Google."
+      },
+      {
         "title": "Contact",
         "content": "Pour les questions relatives à la confidentialité, veuillez contacter les canaux officiels de la Mairie de Tolède ou de Turismo Toledo."
       }
@@ -257,6 +261,10 @@
       {
         "title": "Loi Applicable",
         "content": "Ces conditions seront régies et interprétées conformément aux lois espagnoles."
+      },
+      {
+        "title": "Liens Externes et Services Tiers",
+        "content": "Notre site web contient des liens vers des services externes, y compris Google Maps. Ces services sont régis par leurs conditions et politiques de confidentialité respectives. La Mairie de Tolède (Ayuntamiento de Toledo) n'assume aucune responsabilité pour le contenu, les pratiques de confidentialité ou le traitement des données de tout site web ou service tiers."
       }
     ]
   },
@@ -272,7 +280,7 @@
     },
     "analytics": {
       "title": "Cookies Analytiques",
-      "description": "Nous pouvons utiliser des cookies d'analyse pour comprendre l'utilisation par les visiteurs (anonymisés, aucune information personnellement identifiable n'est collectée).",
+      "description": "Nous pouvons utiliser des cookies d'analyse pour comprendre l'utilisation par les visiteurs (anonymisés, aucune information personnellement identifiable n'est collectée). Cela inclut les cookies définis par des services tiers tels que Google Maps pour fournir des fonctionnalités de cartographie.",
       "enabled": "Activés",
       "disabled": "Désactivés"
     },

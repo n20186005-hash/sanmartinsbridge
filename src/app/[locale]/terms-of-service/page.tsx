@@ -4,7 +4,7 @@ import { Link } from '@/i18n/navigation';
 
 export default function TermsOfService() {
   const t = useTranslations('terms');
-  const sections = [0, 1, 2, 3];
+  const sections = [0, 1, 2, 3, 4];
 
   return (
     <div className="section pt-24">

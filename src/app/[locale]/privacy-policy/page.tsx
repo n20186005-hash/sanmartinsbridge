@@ -4,7 +4,7 @@ import { Link } from '@/i18n/navigation';
 
 export default function PrivacyPolicy() {
   const t = useTranslations('privacy');
-  const sections = [0, 1, 2, 3, 4];
+  const sections = [0, 1, 2, 3, 4, 5];
 
   return (
     <div className="section pt-24">
