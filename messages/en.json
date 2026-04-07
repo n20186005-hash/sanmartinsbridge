@@ -55,7 +55,8 @@
       "Medieval Architecture",
       "Spain",
       "Historical Heritage"
-    ]
+    ],
+    "officialManagement": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain."
   },
   "explore": {
     "title": "Explore Toledo's Historic Heart",
@@ -173,7 +174,7 @@
     },
     "hours": {
       "label": "Opening Hours",
-      "value": "Open 24 hours — Free pedestrian access. No reservation required. Best time to visit is sunset to enjoy the views of the Tagus River and the old city of Toledo."
+      "value": "Pedestrian access is free (Acceso peatonal gratuito). Open 24 hours a day. No tickets or reservations are required. We highly recommend visiting at sunset to enjoy panoramic views of the Tagus River (Río Tajo) and the old city of Toledo."
     },
     "transport": {
       "label": "Getting There",
@@ -192,21 +193,13 @@
     "title": "How to Get Here",
     "openMaps": "Open on Google Maps"
   },
-  "references": {
-    "title": "Data & References",
-    "sources": {
-      "google": "Google Maps — Ratings, reviews and geographic data",
-      "unsplash": "Unsplash — Photographs used in the gallery",
-      "wikipedia": "Wikipedia — Historical and cultural information"
-    }
-  },
   "footer": {
-    "copyright": "© 2026 Ayuntamiento de Toledo · All rights reserved",
+    "copyright": "© Ayuntamiento de Toledo · All rights reserved · Last updated: April 2026",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "management": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain.",
-    "officialLinksTitle": "Official Links"
+    "officialLinksTitle": "Official Government and Tourism Resources"
   },
   "privacy": {
     "backHome": "Back to Home",

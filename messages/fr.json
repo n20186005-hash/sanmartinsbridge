@@ -55,7 +55,8 @@
       "Architecture médiévale",
       "Espagne",
       "Patrimoine historique"
-    ]
+    ],
+    "officialManagement": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne."
   },
   "explore": {
     "title": "Explorez le Cœur Historique de Tolède",
@@ -173,7 +174,7 @@
     },
     "hours": {
       "label": "Horaires d'ouverture",
-      "value": "Accès piéton gratuit. Ouvert 24 heures sur 24. Aucun billet ni réservation n'est requis. Nous recommandons particulièrement de venir au coucher du soleil pour admirer la vue sur le Tage et la vieille ville de Tolède."
+      "value": "L'accès piéton est gratuit (Acceso peatonal gratuito). Ouvert 24 heures sur 24. Aucun billet ni réservation n'est requis. Nous recommandons particulièrement de venir au coucher du soleil pour profiter des vues panoramiques sur le Tage (Río Tajo) et la vieille ville de Tolède."
     },
     "transport": {
       "label": "Comment s'y rendre",
@@ -192,21 +193,13 @@
     "title": "Comment s'y Rendre",
     "openMaps": "Ouvrir dans Google Maps"
   },
-  "references": {
-    "title": "Données & Références",
-    "sources": {
-      "google": "Google Maps — Notes, avis et données géographiques",
-      "unsplash": "Unsplash — Photographies utilisées dans la galerie",
-      "wikipedia": "Wikipédia — Informations historiques et culturelles"
-    }
-  },
   "footer": {
-    "copyright": "© 2026 Ayuntamiento de Toledo · Tous droits réservés",
+    "copyright": "© Ayuntamiento de Toledo · Tous droits réservés · Dernière mise à jour : avril 2026",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "cookies": "Paramètres des Cookies",
     "management": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne.",
-    "officialLinksTitle": "Liens Officiels"
+    "officialLinksTitle": "Ressources Officielles du Gouvernement et du Tourisme"
   },
   "privacy": {
     "backHome": "Retour à l'Accueil",

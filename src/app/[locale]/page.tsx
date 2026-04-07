@@ -5,7 +5,6 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import Practical from '@/components/Practical';
 import MapEmbed from '@/components/MapEmbed';
-import References from '@/components/References';
 
 export default function Home() {
   return (
@@ -17,7 +16,6 @@ export default function Home() {
       <Reviews />
       <Practical />
       <MapEmbed />
-      <References />
     </>
   );
 }

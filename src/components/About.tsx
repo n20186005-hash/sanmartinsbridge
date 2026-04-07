@@ -8,6 +8,12 @@ export default function About() {
 
   return (
     <section id="about" className="section">
+      <div className="mb-10 p-6 rounded-lg bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-800">
+        <p className="text-sm md:text-base font-medium leading-relaxed text-blue-900 dark:text-blue-100">
+          {t('officialManagement')}
+        </p>
+      </div>
+
       <h2 className="font-serif text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
         {t('title')}
       </h2>

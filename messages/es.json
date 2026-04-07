@@ -55,7 +55,8 @@
       "Arquitectura medieval",
       "España",
       "Patrimonio histórico"
-    ]
+    ],
+    "officialManagement": "El Puente de San Martín es administrado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como un importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España."
   },
   "explore": {
     "title": "Explora el Corazón Histórico de Toledo",
@@ -173,7 +174,7 @@
     },
     "hours": {
       "label": "Horario de apertura",
-      "value": "Acceso peatonal gratuito. Abierto las 24 horas. No requiere entrada ni reserva. Recomendamos especialmente visitarlo al atardecer para disfrutar de las vistas del río Tajo y la ciudad antigua de Toledo."
+      "value": "El acceso peatonal es gratuito (Acceso peatonal gratuito). Abierto las 24 horas del día. No se requieren entradas ni reservas. Recomendamos especialmente visitarlo al atardecer para disfrutar de las vistas panorámicas del Río Tajo y la ciudad antigua de Toledo."
     },
     "transport": {
       "label": "Cómo llegar",
@@ -192,21 +193,13 @@
     "title": "Cómo Llegar",
     "openMaps": "Abrir en Google Maps"
   },
-  "references": {
-    "title": "Datos y Referencias",
-    "sources": {
-      "google": "Google Maps — Valoraciones, reseñas y datos geográficos",
-      "unsplash": "Unsplash — Fotografías utilizadas en la galería",
-      "wikipedia": "Wikipedia — Información histórica y cultural"
-    }
-  },
   "footer": {
-    "copyright": "© 2026 Ayuntamiento de Toledo · Todos los derechos reservados",
+    "copyright": "© Ayuntamiento de Toledo · Todos los derechos reservados · Última actualización: abril de 2026",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
     "management": "El Puente de San Martín está gestionado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España.",
-    "officialLinksTitle": "Enlaces Oficiales"
+    "officialLinksTitle": "Recursos Oficiales del Gobierno y Turismo"
   },
   "privacy": {
     "backHome": "Volver al Inicio",
