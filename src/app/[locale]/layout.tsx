@@ -44,6 +44,8 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
+        <meta name="google-adsense-account" content="ca-pub-9279583389810634" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9279583389810634" crossOrigin="anonymous"></script>
         <script dangerouslySetInnerHTML={{
           __html: `
             (function() {
