@@ -194,18 +194,19 @@
     "openMaps": "Abrir en Google Maps"
   },
   "footer": {
-    "copyright": "© Ayuntamiento de Toledo · Todos los derechos reservados · Última actualización: abril de 2026",
+    "copyright": "© Asociación de Turismo de Autoservicio del Puente de San Martín · Todos los derechos reservados",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
     "management": "El Puente de San Martín está gestionado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España.",
-    "officialLinksTitle": "Recursos Oficiales del Gobierno y Turismo"
+    "officialLinksTitle": "Recursos Oficiales del Gobierno y Turismo",
+    "disclaimer": "Este sitio web es una guía de información turística independiente de terceros, con el objetivo de proporcionar a los visitantes antecedentes históricos objetivos y consejos de viaje. Es una iniciativa organizada por entusiastas y no representa ninguna postura oficial, ni está afiliada a los operadores oficiales del sitio."
   },
   "privacy": {
     "backHome": "Volver al Inicio",
     "title": "Política de Privacidad",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Este sitio web es gestionado por el Ayuntamiento de Toledo y el gobierno regional. Estamos comprometidos a proteger la privacidad de los visitantes, cumpliendo con el RGPD de la UE y las normativas españolas de protección de datos.",
+    "intro": "Este sitio web es una guía de información turística independiente de terceros, con el objetivo de proporcionar a los visitantes antecedentes históricos objetivos y consejos de viaje. Es una iniciativa organizada por entusiastas y no representa ninguna postura oficial, ni está afiliada a los operadores oficiales del sitio. Estamos comprometidos a proteger la privacidad de los visitantes, cumpliendo con el RGPD de la UE y las normativas españolas de protección de datos.",
     "sections": [
       {
         "title": "Información que Recopilamos",
@@ -237,7 +238,7 @@
     "backHome": "Volver al Inicio",
     "title": "Términos de Servicio",
     "lastUpdated": "Última actualización: marzo 2026",
-    "intro": "Este sitio web es la plataforma oficial de información del Puente de San Martín, ofreciendo servicios públicos de información turística. Al utilizar este sitio web, usted acepta estos Términos de Servicio.",
+    "intro": "Este sitio web es la asociación de turismo de autoservicio de entusiastas del Puente de San Martín, que proporciona servicios de información turística pública. Al utilizar este sitio web, usted acepta estos Términos de Servicio.",
     "sections": [
       {
         "title": "Propiedad del Contenido",
@@ -301,4 +302,4 @@
     "fr": "Français",
     "zh-Hant": "繁體中文"
   }
-}
+}\n

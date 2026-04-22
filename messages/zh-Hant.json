@@ -194,18 +194,19 @@
     "openMaps": "在 Google 地圖上開啟"
   },
   "footer": {
-    "copyright": "© Ayuntamiento de Toledo · 保留所有權利 · 最後更新日期：2026年4月",
+    "copyright": "© Puente de San Martín 旅游自助协会 · 版权所有",
     "privacy": "隱私權政策",
     "terms": "服務條款",
     "cookies": "Cookie 設定",
     "management": "Puente de San Martín（聖馬丁橋）由托萊多市政府和卡斯蒂利亞-拉曼查區域政府共同管理與保護。作為托萊多重要的歷史文化遺產，本橋屬於西班牙「文化利益財產」（Bien de Interés Cultural）。",
-    "officialLinksTitle": "政府與旅遊官方資源"
+    "officialLinksTitle": "政府與旅遊官方資源",
+    "disclaimer": "本网站是一个独立的第三方旅游资讯指南，旨在为游客提供客观的历史背景与游览建议。\n仅为爱好者自发组织标识，不代表任何官方立场，与景区相关运营方无任何隶属关系。"
   },
   "privacy": {
     "backHome": "返回首頁",
     "title": "隱私權政策",
     "lastUpdated": "最後更新：2026 年 3 月",
-    "intro": "本網站由托萊多市政府和區域政府管理，致力於保護訪客隱私，遵守歐盟GDPR及西班牙資料保護法規。",
+    "intro": "本网站是一个独立的第三方旅游资讯指南，旨在为游客提供客观的历史背景与游览建议。\n仅为爱好者自发组织标识，不代表任何官方立场，与景区相关运营方无任何隶属关系。我们致力于保护访客隐私，并遵守欧盟《通用数据保护条例》(GDPR)和西班牙数据保护法规。",
     "sections": [
       {
         "title": "我們收集哪些資訊",
@@ -237,7 +238,7 @@
     "backHome": "返回首頁",
     "title": "服務條款",
     "lastUpdated": "最後更新：2026 年 3 月",
-    "intro": "本網站是Puente de San Martín的官方資訊平台，提供公共旅遊資訊服務。用戶使用本網站即表示同意本條款。",
+    "intro": "本网站是圣马丁大桥的爱好者旅游自助协会，提供公共旅游信息服务。使用本网站即表示您同意这些服务条款。",
     "sections": [
       {
         "title": "內容所有權",
@@ -301,4 +302,4 @@
     "fr": "Français",
     "zh-Hant": "繁體中文"
   }
-}
+}\n

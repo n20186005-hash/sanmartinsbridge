@@ -194,18 +194,19 @@
     "openMaps": "Open on Google Maps"
   },
   "footer": {
-    "copyright": "© Ayuntamiento de Toledo · All rights reserved · Last updated: April 2026",
+    "copyright": "© Puente de San Martín Tourism Self-Help Association · All rights reserved",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "management": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain.",
-    "officialLinksTitle": "Official Government and Tourism Resources"
+    "officialLinksTitle": "Official Government and Tourism Resources",
+    "disclaimer": "This website is an independent third-party tourist information guide, aiming to provide visitors with objective historical background and touring advice.\nIt is a volunteer-run initiative by enthusiasts and does not represent any official stance, nor is it affiliated with the site's official operators."
   },
   "privacy": {
     "backHome": "Back to Home",
     "title": "Privacy Policy",
     "lastUpdated": "Last updated: March 2026",
-    "intro": "This website is managed by the Ayuntamiento de Toledo and the regional government. We are committed to protecting visitor privacy and complying with the EU GDPR and Spanish data protection regulations.",
+    "intro": "This website is an independent third-party tourist information guide, aiming to provide visitors with objective historical background and touring advice.\nIt is a volunteer-run initiative by enthusiasts and does not represent any official stance, nor is it affiliated with the site's official operators. We are committed to protecting visitor privacy and complying with the EU GDPR and Spanish data protection regulations.",
     "sections": [
       {
         "title": "Information We Collect",
@@ -237,7 +238,7 @@
     "backHome": "Back to Home",
     "title": "Terms of Service",
     "lastUpdated": "Last updated: March 2026",
-    "intro": "This website is the official information platform for Puente de San Martín, providing public tourism information services. By using this website, you agree to these Terms of Service.",
+    "intro": "This website is the enthusiast tourism self-help association for the Puente de San Martín, providing public tourist information services. By using this website, you agree to these Terms of Service.",
     "sections": [
       {
         "title": "Content Ownership",
@@ -301,4 +302,4 @@
     "fr": "Français",
     "zh-Hant": "繁體中文"
   }
-}
+}\n

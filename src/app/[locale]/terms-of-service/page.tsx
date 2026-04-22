@@ -17,7 +17,7 @@ export default function TermsOfService() {
         {t('title')}
       </h1>
       <p className="text-sm mb-8" style={{ color: 'var(--text-muted)' }}>{t('lastUpdated')}</p>
-      <p className="mb-8 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('intro')}</p>
+      <p className="mb-8 leading-relaxed whitespace-pre-line" style={{ color: 'var(--text-secondary)' }}>{t('intro')}</p>
 
       {sections.map((i) => (
         <div key={i} className="mb-8">

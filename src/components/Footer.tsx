@@ -41,6 +41,9 @@ export default function Footer() {
             {t('cookies')}
           </Link>
         </div>
+        <p className="text-xs mb-4 whitespace-pre-line" style={{ color: 'var(--text-muted)' }}>
+          {t('disclaimer')}
+        </p>
         <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
           {t('copyright')}
         </p>

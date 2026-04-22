@@ -194,18 +194,19 @@
     "openMaps": "Ouvrir dans Google Maps"
   },
   "footer": {
-    "copyright": "© Ayuntamiento de Toledo · Tous droits réservés · Dernière mise à jour : avril 2026",
+    "copyright": "© Association d'Autogestion Touristique du Pont de San Martín · Tous droits réservés",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "cookies": "Paramètres des Cookies",
     "management": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne.",
-    "officialLinksTitle": "Ressources Officielles du Gouvernement et du Tourisme"
+    "officialLinksTitle": "Ressources Officielles du Gouvernement et du Tourisme",
+    "disclaimer": "Ce site web est un guide d'information touristique tiers indépendant, visant à fournir aux visiteurs un contexte historique objectif et des conseils de visite. Il s'agit d'une initiative bénévole organisée par des passionnés et ne représente aucune position officielle, ni n'est affilié aux opérateurs officiels du site."
   },
   "privacy": {
     "backHome": "Retour à l'Accueil",
     "title": "Politique de Confidentialité",
     "lastUpdated": "Dernière mise à jour : mars 2026",
-    "intro": "Ce site web est géré par la Mairie de Tolède et le gouvernement régional. Nous nous engageons à protéger la vie privée des visiteurs, en nous conformant au RGPD de l'UE et aux réglementations espagnoles sur la protection des données.",
+    "intro": "Ce site web est un guide d'information touristique tiers indépendant, visant à fournir aux visiteurs un contexte historique objectif et des conseils de visite. Il s'agit d'une initiative bénévole organisée par des passionnés et ne représente aucune position officielle, ni n'est affilié aux opérateurs officiels du site. Nous nous engageons à protéger la vie privée des visiteurs et à nous conformer au RGPD de l'UE et aux réglementations espagnoles sur la protection des données.",
     "sections": [
       {
         "title": "Les Informations que Nous Collectons",
@@ -237,7 +238,7 @@
     "backHome": "Retour à l'Accueil",
     "title": "Conditions d'Utilisation",
     "lastUpdated": "Dernière mise à jour : mars 2026",
-    "intro": "Ce site web est la plateforme d'information officielle du Pont de San Martín, fournissant des services d'information touristique publique. En utilisant ce site web, vous acceptez ces Conditions de Service.",
+    "intro": "Ce site web est l'association d'autogestion touristique des passionnés du Pont de San Martín, fournissant des services d'information touristique publics. En utilisant ce site web, vous acceptez ces Conditions de Service.",
     "sections": [
       {
         "title": "Propriété du Contenu",
@@ -301,4 +302,4 @@
     "fr": "Français",
     "zh-Hant": "繁體中文"
   }
-}
+}\n
