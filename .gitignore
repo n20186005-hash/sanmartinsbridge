@@ -70,3 +70,7 @@ pids/
 
 # vercel
 .vercel
+
+# OpenNext build output
+/.open-next/
+/.wrangler/
