@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Pont Saint-Martin — Pont de San Martín, Tolède, Espagne",
-    "description": "Guide complet du Pont Saint-Martin : pont piéton médiéval du XIVe siècle avec vues spectaculaires sur le Tage, architecture gothique et histoire médiévale."
+    "title": "Pont Saint-Martin à Tolède : visite, histoire et plus belles vues",
+    "description": "Guide du Pont Saint-Martin à Tolède avec emplacement, accès, histoire, meilleurs points de vue, photos et conseils pratiques."
   },
   "header": {
     "home": "Accueil",
@@ -16,7 +16,7 @@
     "title": "Pont Saint-Martin",
     "subtitle": "Pont piéton du XIVe siècle avec vues panoramiques sur le Tage",
     "rating": "4,7/5",
-    "reviewCount": "12 394",
+    "reviewCount": "12 781",
     "reviewLabel": "avis",
     "hours": "Ouvert 24h/24",
     "openMaps": "Ouvrir dans Google Maps",
@@ -45,17 +45,21 @@
         "Connexion historique entre les deux rives du Tage"
       ]
     },
-    "keywords": {
-      "title": "Mots-clés associés"
+    "visitPlanning": {
+      "title": "Avant de visiter le Pont Saint-Martin",
+      "items": [
+        "Où se trouve le pont et quel accès choisir depuis le centre historique.",
+        "Comment s'y rendre à pied, en voiture ou depuis la gare de Tolède.",
+        "Combien de temps prévoir pour les vues et les photos.",
+        "Le meilleur moment de la journée pour une lumière plus douce sur le Tage.",
+        "Que voir à proximité, comme la Judería et San Juan de los Reyes.",
+        "Les différences entre le Pont Saint-Martin et le Pont d'Alcántara."
+      ]
     },
-    "keywordsList": [
-      "Pont Saint-Martin",
-      "Tolède",
-      "Tage",
-      "Architecture médiévale",
-      "Espagne",
-      "Patrimoine historique"
-    ],
+    "guideLinks": {
+      "title": "Guides connexes",
+      "items": []
+    },
     "officialManagement": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne."
   },
   "explore": {
@@ -116,55 +120,46 @@
       {
         "alt": "Tolède et le pont",
         "caption": "Ville et pont historique"
+      },
+      {
+        "alt": "Structure en pierre du Pont Saint-Martin à Tolède",
+        "caption": "Profil en pierre du pont"
+      },
+      {
+        "alt": "Chemin en bord de rivière près du Pont Saint-Martin",
+        "caption": "Promenade le long du Tage"
+      },
+      {
+        "alt": "Tour gothique du Pont Saint-Martin",
+        "caption": "Détail de la tour défensive"
+      },
+      {
+        "alt": "Pont Saint-Martin au coucher du soleil",
+        "caption": "Vue dorée sur le pont"
+      },
+      {
+        "alt": "Chemin piéton vers le Pont Saint-Martin",
+        "caption": "Accès et panorama environnant"
       }
     ]
   },
   "reviews": {
-    "title": "Avis de Vrais Visiteurs",
-    "declaration": "Évaluations et avis provenant de Google Maps (dernière mise à jour : 2026). Nous montrons uniquement une sélection d'avis vérifiés avec une note élevée. Pour consulter tous les avis complets et les plus récents, cliquez sur le lien ci-dessous.",
+    "title": "Note Google Maps",
+    "declaration": "Note actuelle du Pont Saint-Martin sur Google Maps. Utilisez le lien officiel pour consulter les avis complets, les photos récentes et les informations les plus à jour.",
+    "summaryTitle": "Aperçu",
+    "stats": {
+      "rating": "Note",
+      "reviews": "Avis",
+      "location": "Adresse"
+    },
+    "highlightsTitle": "Pourquoi l'ajouter à votre itinéraire à Tolède",
+    "highlights": [
+      "Le pont s'intègre très bien à une promenade entre la Judería et les rives du Tage.",
+      "C'est l'un des meilleurs arrêts photo pour les vues sur la rivière et les remparts.",
+      "La visite est rapide et complète bien une journée consacrée au centre historique."
+    ],
     "seeAll": "Voir tous les avis sur Google Maps",
-    "items": [
-      {
-        "name": "Ana Martínez",
-        "date": "Mars 2026",
-        "text": "Pont médiéval impressionnant avec des vues spectaculaires sur le Tage. Parfait pour les photos et les promenades tranquilles. L'architecture gothique est superbe."
-      },
-      {
-        "name": "Javier Rodríguez",
-        "date": "Février 2026",
-        "text": "Un joyau historique à Tolède. Les vues depuis le pont sont magnifiques, surtout au coucher du soleil. La visite vaut vraiment le détour."
-      },
-      {
-        "name": "Laura Fernández",
-        "date": "Janvier 2026",
-        "text": "Beau pont du XIVe siècle. Marcher dessus vous transporte à l'époque médiévale. Les vues du Tage et de la ville sont inoubliables."
-      },
-      {
-        "name": "Manuel García",
-        "date": "Décembre 2025",
-        "text": "Excellent exemple d'architecture médiévale. L'endroit idéal pour contempler la beauté naturelle de Tolède et le Tage. Fortement recommandé."
-      },
-      {
-        "name": "Carmen López",
-        "date": "Novembre 2025",
-        "text": "Tolède ne serait pas la même sans ce pont. Les vues panoramiques sont spectaculaires et l'histoire qu'il renferme est fascinante."
-      },
-      {
-        "name": "Roberto Sánchez",
-        "date": "Octobre 2025",
-        "text": "Pont médiéval très bien conservé. Parfait pour la photographie et profiter des vues du Tage. Un incontournable à Tolède."
-      },
-      {
-        "name": "Isabel Gómez",
-        "date": "Septembre 2025",
-        "text": "Magnifique témoignage de l'ingénierie médiévale. Le cadre naturel du Tage le rend encore plus spécial. Ne le manquez pas."
-      },
-      {
-        "name": "Francisco Pérez",
-        "date": "Août 2025",
-        "text": "Les vues depuis le pont sont à couper le souffle. La combinaison d'histoire, d'architecture et de nature en fait un lieu unique."
-      }
-    ]
+    "items": []
   },
   "practical": {
     "title": "Informations Pratiques",

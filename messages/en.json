@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "San Martin's Bridge — Toledo, Spain",
-    "description": "Complete guide to San Martin's Bridge: 14th-century pedestrian bridge with spectacular Tagus River views, Gothic architecture and medieval history."
+    "title": "San Martin's Bridge in Toledo: How to Visit, History and Best Views",
+    "description": "Guide to San Martin's Bridge in Toledo with location, how to get there, history, best viewpoints, photos and practical visiting tips."
   },
   "header": {
     "home": "Home",
@@ -16,7 +16,7 @@
     "title": "San Martin's Bridge",
     "subtitle": "14th-century pedestrian bridge with sweeping views of the Tagus River",
     "rating": "4.7/5",
-    "reviewCount": "12,394",
+    "reviewCount": "12,781",
     "reviewLabel": "reviews",
     "hours": "Open 24 hours",
     "openMaps": "Open on Google Maps",
@@ -45,17 +45,32 @@
         "Historic connection between Tagus River banks"
       ]
     },
-    "keywords": {
-      "title": "Related Keywords"
+    "visitPlanning": {
+      "title": "Before You Visit San Martin's Bridge",
+      "items": [
+        "Where the bridge is and the easiest access from Toledo's historic center.",
+        "How to get there on foot, by car or from Toledo railway station.",
+        "How much time to set aside for views, photos and a relaxed stop.",
+        "Best time of day for softer light over the Tagus River.",
+        "What to see nearby, including the Jewish Quarter and San Juan de los Reyes.",
+        "How San Martin's Bridge compares with Alcantara Bridge."
+      ]
     },
-    "keywordsList": [
-      "San Martin's Bridge",
-      "Toledo",
-      "Tagus River",
-      "Medieval Architecture",
-      "Spain",
-      "Historical Heritage"
-    ],
+    "guideLinks": {
+      "title": "Related guides",
+      "items": [
+        {
+          "title": "Things to Do in Toledo",
+          "href": "/en/things-to-do-in-toledo",
+          "description": "A practical shortlist of top Toledo attractions and how to connect them on foot."
+        },
+        {
+          "title": "Toledo One Day Itinerary",
+          "href": "/en/toledo-one-day-itinerary",
+          "description": "A realistic route for travelers who want to make the most of just one day in Toledo."
+        }
+      ]
+    },
     "officialManagement": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain."
   },
   "explore": {
@@ -116,55 +131,46 @@
       {
         "alt": "Toledo and the bridge",
         "caption": "City and historic bridge"
+      },
+      {
+        "alt": "Stone structure of San Martin's Bridge in Toledo",
+        "caption": "Stone bridge profile"
+      },
+      {
+        "alt": "Riverside path near San Martin's Bridge",
+        "caption": "Walk along the riverbank"
+      },
+      {
+        "alt": "Gothic tower of San Martin's Bridge",
+        "caption": "Defensive tower detail"
+      },
+      {
+        "alt": "San Martin's Bridge at sunset in Toledo",
+        "caption": "Golden-hour bridge view"
+      },
+      {
+        "alt": "Walking route leading to San Martin's Bridge",
+        "caption": "Pedestrian approach and surroundings"
       }
     ]
   },
   "reviews": {
-    "title": "Real Visitor Reviews",
-    "declaration": "Ratings and reviews from Google Maps (last updated: 2026). We show only a selection of verified high-rated reviews. To see all complete and most recent reviews, click the link below.",
+    "title": "Google Maps Rating",
+    "declaration": "Current Google Maps rating for San Martin's Bridge. Use the official Google Maps link to see full reviews, recent photos and the latest location details.",
+    "summaryTitle": "Snapshot",
+    "stats": {
+      "rating": "Rating",
+      "reviews": "Reviews",
+      "location": "Location"
+    },
+    "highlightsTitle": "Why it deserves a stop in Toledo",
+    "highlights": [
+      "It links well with the Jewish Quarter and a scenic walk beside the Tagus.",
+      "It is one of the strongest photo stops for river views, walls and medieval stonework.",
+      "It is easy to visit without adding too much time to a one-day Toledo route."
+    ],
     "seeAll": "See all reviews on Google Maps",
-    "items": [
-      {
-        "name": "Ana Martínez",
-        "date": "March 2026",
-        "text": "Impressive medieval bridge with spectacular views of the Tagus River. Perfect for photos and peaceful walks. The Gothic architecture is stunning."
-      },
-      {
-        "name": "Javier Rodríguez",
-        "date": "February 2026",
-        "text": "A historical gem in Toledo. The views from the bridge are magnificent, especially at sunset. Well worth the visit."
-      },
-      {
-        "name": "Laura Fernández",
-        "date": "January 2026",
-        "text": "Beautiful 14th-century bridge. Walking across it transports you to medieval times. The views of the Tagus and city are unforgettable."
-      },
-      {
-        "name": "Manuel García",
-        "date": "December 2025",
-        "text": "Excellent example of medieval architecture. The perfect place to contemplate Toledo's natural beauty and the Tagus River. Highly recommended."
-      },
-      {
-        "name": "Carmen López",
-        "date": "November 2025",
-        "text": "Toledo wouldn't be the same without this bridge. The panoramic views are spectacular and the history it holds is fascinating."
-      },
-      {
-        "name": "Roberto Sánchez",
-        "date": "October 2025",
-        "text": "Very well-preserved medieval bridge. Perfect for photography and enjoying Tagus views. A must-visit in Toledo."
-      },
-      {
-        "name": "Isabel Gómez",
-        "date": "September 2025",
-        "text": "Wonderful testament to medieval engineering. The natural Tagus setting makes it even more special. Don't miss it."
-      },
-      {
-        "name": "Francisco Pérez",
-        "date": "August 2025",
-        "text": "The views from the bridge are stunning. The combination of history, architecture, and nature makes it a unique place."
-      }
-    ]
+    "items": []
   },
   "practical": {
     "title": "Practical Information",

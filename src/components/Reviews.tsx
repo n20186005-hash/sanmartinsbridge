@@ -1,11 +1,11 @@
 'use client';
 import { useTranslations } from 'next-intl';
-
-const COLORS = ['#0077b6', '#e94560', '#2d6a4f', '#e07c24', '#6c63ff', '#d63384', '#0d9488', '#b45309'];
+import { ADDRESS, MAPS_URL } from '@/lib/site';
 
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const items = [0, 1, 2, 3, 4, 5, 6, 7];
+  const hero = useTranslations('hero');
+  const highlights: string[] = t.raw('highlights');
 
   return (
     <div style={{ backgroundColor: 'var(--bg-secondary)' }}>
@@ -17,37 +17,59 @@ export default function Reviews() {
           {t('declaration')}
         </p>
 
-        <div className="grid md:grid-cols-2 gap-4">
-          {items.map((i) => {
-            const name: string = t(`items.${i}.name`);
-            const initial = name.charAt(0).toUpperCase();
-            return (
-              <div key={i} className="review-card">
-                <div className="flex items-center gap-3 mb-3">
-                  <div
-                    className="w-10 h-10 rounded-full flex items-center justify-center text-white font-semibold text-sm"
-                    style={{ backgroundColor: COLORS[i % COLORS.length] }}
-                  >
-                    {initial}
-                  </div>
-                  <div>
-                    <div className="font-medium text-sm" style={{ color: 'var(--text-primary)' }}>{name}</div>
-                    <div className="text-xs" style={{ color: 'var(--text-muted)' }}>{t(`items.${i}.date`)}</div>
-                  </div>
-                  <div className="ml-auto stars text-sm">★★★★★</div>
+        <div className="grid gap-6 lg:grid-cols-[minmax(0,1.2fr)_minmax(0,0.8fr)]">
+          <div className="review-card">
+            <p className="text-sm font-medium mb-6" style={{ color: 'var(--accent)' }}>
+              {t('summaryTitle')}
+            </p>
+
+            <div className="grid gap-4 sm:grid-cols-3">
+              <div>
+                <div className="text-xs uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>
+                  {t('stats.rating')}
                 </div>
-                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                  {t(`items.${i}.text`)}
-                </p>
+                <div className="text-3xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+                  {hero('rating')}
+                </div>
               </div>
-            );
-          })}
+              <div>
+                <div className="text-xs uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>
+                  {t('stats.reviews')}
+                </div>
+                <div className="text-3xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+                  {hero('reviewCount')}
+                </div>
+              </div>
+              <div>
+                <div className="text-xs uppercase tracking-wide mb-1" style={{ color: 'var(--text-muted)' }}>
+                  {t('stats.location')}
+                </div>
+                <div className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                  {ADDRESS}
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="review-card">
+            <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('highlightsTitle')}
+            </h3>
+            <ul className="space-y-3">
+              {highlights.map((item, index) => (
+                <li key={index} className="flex items-start gap-3 text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                  <span className="mt-1 h-2 w-2 rounded-full flex-shrink-0" style={{ backgroundColor: 'var(--accent)' }} />
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
 
         {/* See all link */}
         <div className="mt-8 text-center">
           <a
-            href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
+            href={MAPS_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-sm font-medium hover:opacity-70 transition-opacity"

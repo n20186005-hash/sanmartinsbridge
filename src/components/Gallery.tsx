@@ -1,30 +1,17 @@
 'use client';
 import { useState } from 'react';
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-
-const PHOTOS = [
-  '/gallery/images (1).jpg',
-  '/gallery/images (2).jpg',
-  '/gallery/images (3).jpg',
-  '/gallery/images (4).jpg',
-  '/gallery/images (5).jpg',
-  '/gallery/images (6).jpg',
-  '/gallery/images (7).jpg',
-  '/gallery/images (8).jpg',
-  '/gallery/images (9).jpg',
-  '/gallery/images (10).jpg',
-  '/gallery/images (11).jpg',
-  '/gallery/images (12).jpg',
-  '/gallery/images (13).jpg',
-];
+import { GALLERY_IMAGES, MAPS_URL } from '@/lib/site';
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const images = t.raw('images') as Array<{ alt: string; caption: string }>;
   const [lightboxImage, setLightboxImage] = useState<string | null>(null);
 
   const closeLightbox = () => setLightboxImage(null);
@@ -50,20 +37,21 @@ export default function Gallery() {
           }}
           className="gallery-swiper"
         >
-          {PHOTOS.map((src, i) => (
+          {GALLERY_IMAGES.map((src, i) => (
             <SwiperSlide key={i}>
               <div 
                 className="gallery-item cursor-pointer"
                 onDoubleClick={() => setLightboxImage(src)}
               >
-                <img 
+                <Image
                   src={src} 
-                  alt={i < 8 ? t(`images.${i}.alt`) : `Gallery image ${i + 1}`} 
-                  loading="lazy" 
+                  alt={images[i]?.alt ?? t('title')}
+                  fill
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                   className="w-full h-full object-cover select-none"
                 />
                 <div className="caption">
-                  {i < 8 ? t(`images.${i}.caption`) : `Image ${i + 1}`}
+                  {images[i]?.caption ?? `${t('title')} ${i + 1}`}
                 </div>
               </div>
             </SwiperSlide>
@@ -74,7 +62,7 @@ export default function Gallery() {
       <p className="mt-6 text-sm text-center" style={{ color: 'var(--text-muted)' }}>
         {t('source')}{' '}
         <a
-          href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
+          href={MAPS_URL}
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: 'var(--accent)' }}
@@ -98,9 +86,11 @@ export default function Gallery() {
             >
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
             </button>
-            <img 
+            <Image
               src={lightboxImage} 
               alt="Enlarged view" 
+              width={1600}
+              height={1200}
               className="max-w-full max-h-full object-contain shadow-2xl rounded-lg cursor-default"
               onClick={(e) => e.stopPropagation()} // Prevent closing when clicking the image itself
             />

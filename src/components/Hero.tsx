@@ -1,5 +1,7 @@
 'use client';
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
+import { HERO_IMAGE, MAPS_URL } from '@/lib/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -7,13 +9,16 @@ export default function Hero() {
   const tags: string[] = t.raw('tags');
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <section id="top" className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
-        <img
-          src="/gallery/images (1).jpg"
-          alt="San Martin's Bridge"
-          className="w-full h-full object-cover"
+        <Image
+          src={HERO_IMAGE}
+          alt={t('title')}
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
@@ -40,7 +45,7 @@ export default function Hero() {
 
         {/* Google Maps link */}
         <a
-          href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
+          href={MAPS_URL}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/20 backdrop-blur-sm rounded-full text-white text-sm font-medium hover:bg-white/30 transition-colors mb-8"

@@ -1,10 +1,12 @@
 'use client';
 import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/navigation';
 
 export default function About() {
   const t = useTranslations('about');
   const highlights: string[] = t.raw('highlights.items');
-  const keywords: string[] = t.raw('keywordsList');
+  const visitPlanning: string[] = t.raw('visitPlanning.items');
+  const guideLinks: Array<{ title: string; description: string; href: string }> = t.raw('guideLinks.items');
 
   return (
     <section id="about" className="section">
@@ -35,14 +37,41 @@ export default function About() {
         ))}
       </ul>
 
-      <h3 className="font-serif text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-        {t('keywords.title')}
+      <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+        {t('visitPlanning.title')}
       </h3>
-      <div className="flex flex-wrap gap-2">
-        {keywords.map((kw: string, i: number) => (
-          <span key={i} className="tag">{kw}</span>
+      <ul className="grid gap-3 mb-10 max-w-3xl md:grid-cols-2">
+        {visitPlanning.map((item: string, i: number) => (
+          <li key={i} className="rounded-lg border p-4 text-sm leading-relaxed" style={{ borderColor: 'var(--border-color)', color: 'var(--text-secondary)', backgroundColor: 'var(--bg-secondary)' }}>
+            {item}
+          </li>
         ))}
-      </div>
+      </ul>
+
+      {guideLinks.length > 0 && (
+        <>
+          <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+            {t('guideLinks.title')}
+          </h3>
+          <div className="grid gap-4 md:grid-cols-2 max-w-4xl">
+            {guideLinks.map((item, index) => (
+              <Link
+                key={index}
+                href={item.href}
+                className="rounded-xl border p-5 transition-opacity hover:opacity-80"
+                style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-secondary)' }}
+              >
+                <div className="font-serif text-xl mb-2" style={{ color: 'var(--text-primary)' }}>
+                  {item.title}
+                </div>
+                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+                  {item.description}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
     </section>
   );
 }

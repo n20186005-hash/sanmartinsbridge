@@ -5,6 +5,7 @@ import { routing } from '@/i18n/routing';
 import '../globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { HERO_IMAGE, SITE_NAME, SITE_URL } from '@/lib/site';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -14,18 +15,37 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'meta' });
   return {
-    metadataBase: new URL('https://sanmartinsbridge.com'),
+    metadataBase: new URL(SITE_URL),
     title: t('title'),
     description: t('description'),
     alternates: {
       canonical: locale === 'es' ? '/' : `/${locale}`,
       languages: {
-        'es': '/',
+        'es-ES': '/',
         'en': '/en',
         'fr': '/fr',
         'zh-Hant': '/zh-Hant',
         'x-default': '/',
       },
+    },
+    openGraph: {
+      type: 'website',
+      url: locale === 'es' ? SITE_URL : `${SITE_URL}/${locale}`,
+      siteName: SITE_NAME,
+      title: t('title'),
+      description: t('description'),
+      images: [
+        {
+          url: HERO_IMAGE,
+          alt: t('title'),
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+      images: [HERO_IMAGE],
     },
   };
 }

@@ -1,5 +1,6 @@
 'use client';
 import { useTranslations } from 'next-intl';
+import { ADDRESS, MAPS_URL, PLUS_CODE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('map');
@@ -11,7 +12,7 @@ export default function MapEmbed() {
           {t('title')}
         </h2>
         <p className="mb-6 text-sm" style={{ color: 'var(--text-muted)' }}>
-          Bajada San Martín, 45004 Toledo, Spain
+          {ADDRESS} · {PLUS_CODE}
         </p>
 
         <div className="map-container">
@@ -28,7 +29,7 @@ export default function MapEmbed() {
 
         <div className="mt-6">
           <a
-            href="https://maps.app.goo.gl/S185ouarQPJMV5s37"
+            href={MAPS_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
