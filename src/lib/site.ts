@@ -12,19 +12,19 @@ export const COORDINATES = {
 };
 
 export const GALLERY_IMAGES = [
-  '/gallery/puente-san-martin-toledo-river-view.jpg',
-  '/gallery/puente-san-martin-toledo-arches.jpg',
-  '/gallery/puente-san-martin-toledo-panorama.jpg',
-  '/gallery/puente-san-martin-toledo-sunrise.jpg',
-  '/gallery/puente-san-martin-toledo-medieval-details.jpg',
-  '/gallery/puente-san-martin-toledo-night-view.jpg',
-  '/gallery/puente-san-martin-toledo-tagus-river.jpg',
-  '/gallery/puente-san-martin-toledo-city-view.jpg',
-  '/gallery/puente-san-martin-toledo-stone-bridge.jpg',
-  '/gallery/puente-san-martin-toledo-riverside-path.jpg',
-  '/gallery/puente-san-martin-toledo-gothic-tower.jpg',
-  '/gallery/puente-san-martin-toledo-sunset.jpg',
-  '/gallery/puente-san-martin-toledo-walking-route.jpg',
+  '/gallery/images-1.jpg',
+  '/gallery/images-2.jpg',
+  '/gallery/images-3.jpg',
+  '/gallery/images-4.jpg',
+  '/gallery/images-5.jpg',
+  '/gallery/images-6.jpg',
+  '/gallery/images-7.jpg',
+  '/gallery/images-8.jpg',
+  '/gallery/images-9.jpg',
+  '/gallery/images-10.jpg',
+  '/gallery/images-11.jpg',
+  '/gallery/images-12.jpg',
+  '/gallery/images-13.jpg',
 ] as const;
 
 export const HERO_IMAGE = GALLERY_IMAGES[0];
