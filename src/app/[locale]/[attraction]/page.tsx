@@ -4,8 +4,12 @@ import {attractionSlugs, attractions, AttractionSlug, Locale} from '@/lib/attrac
 import {routing} from '@/i18n/routing';
 import {SITE_URL} from '@/lib/site';
 import {attractionPhotos} from '@/components/NearbyAttractions';
-export const dynamicParams=false;
-export function generateStaticParams() {return routing.locales.flatMap(locale=>attractionSlugs.map(attraction=>({locale,attraction})));}
+// The parent layout generates locales; this segment generates only attractions.
+// Keep runtime rendering enabled for OpenNext cache misses. Both entry points
+// below reject unknown locales and attraction slugs with notFound().
+export function generateStaticParams() {
+ return attractionSlugs.map(attraction => ({attraction}));
+}
 function valid(slug:string,locale:string):slug is AttractionSlug {return attractionSlugs.includes(slug as AttractionSlug)&&routing.locales.includes(locale as Locale);}
 export async function generateMetadata({params}:{params:Promise<{locale:string;attraction:string}>}) {
  const {locale,attraction}=await params;if(!valid(attraction,locale))notFound();
