@@ -10,43 +10,12 @@ export default function About() {
 
   return (
     <section id="about" className="section">
-      <div className="mb-10 p-6 rounded-lg bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-800">
-        <p className="text-sm md:text-base font-medium leading-relaxed text-blue-900 dark:text-blue-100">
-          {t('officialManagement')}
-        </p>
-      </div>
-
       <h2 className="font-serif text-3xl md:text-4xl font-bold mb-6" style={{ color: 'var(--text-primary)' }}>
         {t('title')}
       </h2>
       <p className="text-lg leading-relaxed mb-8 max-w-3xl" style={{ color: 'var(--text-secondary)' }}>
         {t('description')}
       </p>
-
-      <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-        {t('highlights.title')}
-      </h3>
-      <ul className="space-y-3 mb-10 max-w-2xl">
-        {highlights.map((item: string, i: number) => (
-          <li key={i} className="flex items-start gap-3" style={{ color: 'var(--text-secondary)' }}>
-            <span style={{ color: 'var(--accent)' }} className="mt-1.5 flex-shrink-0">
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
-            </span>
-            <span>{item}</span>
-          </li>
-        ))}
-      </ul>
-
-      <h3 className="font-serif text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-        {t('visitPlanning.title')}
-      </h3>
-      <ul className="grid gap-3 mb-10 max-w-3xl md:grid-cols-2">
-        {visitPlanning.map((item: string, i: number) => (
-          <li key={i} className="rounded-lg border p-4 text-sm leading-relaxed" style={{ borderColor: 'var(--border-color)', color: 'var(--text-secondary)', backgroundColor: 'var(--bg-secondary)' }}>
-            {item}
-          </li>
-        ))}
-      </ul>
 
       {guideLinks.length > 0 && (
         <>

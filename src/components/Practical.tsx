@@ -1,37 +1,6 @@
 'use client';
 import { useTranslations } from 'next-intl';
-
-const ICONS = {
-  address: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>,
-  hours: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>,
-  transport: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>,
-  parking: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 17V7h4a3 3 0 0 1 0 6H9"/></svg>,
-  accessibility: <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="m16 10-4 4-4-4"/></svg>,
-};
-
-const fields = ['address', 'hours', 'transport', 'parking', 'accessibility'] as const;
-
 export default function Practical() {
-  const t = useTranslations('practical');
-
-  return (
-    <section className="section">
-      <h2 className="font-serif text-3xl md:text-4xl font-bold mb-8" style={{ color: 'var(--text-primary)' }}>
-        {t('title')}
-      </h2>
-      <div className="grid md:grid-cols-2 gap-6 max-w-4xl">
-        {fields.map((field) => (
-          <div key={field} className="flex gap-4">
-            <div className="flex-shrink-0 mt-1" style={{ color: 'var(--accent)' }}>
-              {ICONS[field]}
-            </div>
-            <div>
-              <div className="font-semibold text-sm mb-1" style={{ color: 'var(--text-primary)' }}>{t(`${field}.label`)}</div>
-              <div className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t(`${field}.value`)}</div>
-            </div>
-          </div>
-        ))}
-      </div>
-    </section>
-  );
+ const t=useTranslations('practical');
+ return <section id="visit" className="section scroll-mt-24"><h2 className="font-serif text-3xl md:text-4xl font-bold mb-6">{t('title')}</h2><dl className="mb-10"><dt className="font-semibold mb-2">{t('address.label')}</dt><dd style={{color:'var(--text-secondary)'}}>{t('address.value')}</dd></dl><p className="mb-3" style={{color:'var(--text-secondary)'}}>{t('type')}</p><p className="mb-4" style={{color:'var(--text-secondary)'}}>{t('duration')}</p><a className="underline block mb-10" href="https://turismo.toledo.es/recursos/id1493-puente-de-san-martin.html">Turismo Toledo →</a>{(['hours','transport'] as const).map(field=><section key={field} className="mb-10"><h2 className="font-serif text-3xl font-bold mb-4">{t(`${field}.label`)}</h2><p className="leading-relaxed max-w-4xl" style={{color:'var(--text-secondary)'}}>{t(`${field}.value`)}</p></section>)}<h3 className="font-serif text-xl mb-3">{t('accessibility.label')}</h3><p className="max-w-4xl leading-relaxed" style={{color:'var(--text-secondary)'}}>{t('accessibility.value')}</p></section>;
 }

@@ -17,6 +17,7 @@ export default function MapEmbed() {
 
         <div className="map-container">
           <iframe
+            title={t('title')}
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3062.7828580849337!2d-4.036743323097131!3d39.85669897153502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6a0b092ce34d4b%3A0x2ca2d3c13da2b239!2sSan%20Martin&#39;s%20Bridge!5e0!3m2!1sen!2sus!4v1774838799906!5m2!1sen!2sus"
             width="600"
             height="450"

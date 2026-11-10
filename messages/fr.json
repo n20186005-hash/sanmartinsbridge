@@ -6,19 +6,15 @@
   "header": {
     "home": "Accueil",
     "gallery": "Galerie",
-    "reviews": "Avis",
     "map": "Carte",
     "privacy": "Confidentialité",
     "terms": "Conditions",
-    "cookies": "Cookies"
+    "cookies": "Cookies",
+    "nearby": "À proximité"
   },
   "hero": {
     "title": "Pont Saint-Martin",
     "subtitle": "Pont piéton du XIVe siècle avec vues panoramiques sur le Tage",
-    "rating": "4,7/5",
-    "reviewCount": "12 781",
-    "reviewLabel": "avis",
-    "hours": "Ouvert 24h/24",
     "openMaps": "Ouvrir dans Google Maps",
     "tags": [
       "Pont médiéval",
@@ -29,18 +25,21 @@
       "Photographie",
       "Vues panoramiques",
       "XIVe siècle"
-    ]
+    ],
+    "visit": "Préparer la visite",
+    "map": "Carte",
+    "nearby": "À proximité"
   },
   "about": {
-    "title": "Découvrir le Pont",
-    "description": "Le Pont Saint-Martin, construit au XIVe siècle, est un joyau architectural médiéval enjambant le Tage à Tolède. Ce pont piéton offre des vues spectaculaires sur la ville fortifiée et le paysage naturel du Tage, témoignant vivant de l'histoire espagnole.",
+    "title": "À propos du pont",
+    "description": "Le pont Saint-Martin franchit le Tage à l’ouest de Tolède. Il existait déjà au XIVe siècle et présente cinq arcs brisés et deux tours hexagonales. Classé Monument national en 1921, il permet de comprendre le lien entre le fleuve, les murailles et l’accès médiéval à la ville.",
     "highlights": {
       "title": "Points forts",
       "items": [
         "Pont piéton du XIVe siècle avec architecture gothique",
         "Vues panoramiques sur le Tage et la ville de Tolède",
         "Témoignage de l'ingénierie médiévale espagnole",
-        "Accès gratuit 24h/24",
+        "Accès libre, sans billet",
         "Point de photographie idéal pour capturer l'essence de Tolède",
         "Connexion historique entre les deux rives du Tage"
       ]
@@ -48,22 +47,19 @@
     "visitPlanning": {
       "title": "Avant de visiter le Pont Saint-Martin",
       "items": [
-        "Où se trouve le pont et quel accès choisir depuis le centre historique.",
-        "Comment s'y rendre à pied, en voiture ou depuis la gare de Tolède.",
-        "Combien de temps prévoir pour les vues et les photos.",
-        "Le meilleur moment de la journée pour une lumière plus douce sur le Tage.",
-        "Que voir à proximité, comme la Judería et San Juan de los Reyes.",
-        "Les différences entre le Pont Saint-Martin et le Pont d'Alcántara."
+        "Prévoyez environ 20–40 minutes pour la promenade et les vues : une suggestion éditoriale à adapter à votre rythme.",
+        "Combinez le pont avec San Juan de los Reyes et Santa María la Blanca, en visitant d’abord les intérieurs soumis à des horaires.",
+        "Consultez la carte avant le départ et tenez compte des pentes et des pavés.",
+        "Emportez eau et protection solaire selon la météo, et adaptez les photos à la lumière du jour."
       ]
     },
     "guideLinks": {
       "title": "Guides connexes",
       "items": []
-    },
-    "officialManagement": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne."
+    }
   },
   "explore": {
-    "title": "Explorez le Cœur Historique de Tolède",
+    "title": "Culture et architecture",
     "items": [
       {
         "title": "Architecture Médiévale",
@@ -85,107 +81,63 @@
   },
   "gallery": {
     "title": "Galerie Photos",
-    "subtitle": "Images du pont et de ses environs",
-    "source": "Photo : Unsplash (dernière mise à jour : 2026)",
+    "subtitle": "Vues du pont sur le Tage",
+    "source": "",
     "viewAll": "Voir toutes les photos sur Google Maps",
     "images": [
       {
-        "alt": "Pont Saint-Martin sur le Tage",
-        "caption": "Vue du pont médiéval"
+        "alt": "Vue générale du pont Saint-Martin",
+        "caption": "Vue générale du pont Saint-Martin"
       },
       {
-        "alt": "Arches gothiques du pont",
-        "caption": "Détail de l'architecture"
+        "alt": "Passage piéton sur le pont",
+        "caption": "Passage piéton sur le pont"
       },
       {
-        "alt": "Vue panoramique depuis le pont",
-        "caption": "Le Tage et Tolède"
+        "alt": "Porte de pierre de la tour",
+        "caption": "Porte de pierre de la tour"
       },
       {
-        "alt": "Pont au lever du soleil",
-        "caption": "Lever de soleil sur la rivière"
+        "alt": "Vue à travers l’arc",
+        "caption": "Vue à travers l’arc"
       },
       {
-        "alt": "Architecture médiévale",
-        "caption": "Construction du XIVe siècle"
+        "alt": "Pont vu depuis son accès",
+        "caption": "Pont vu depuis son accès"
       },
       {
-        "alt": "Vue nocturne du pont",
-        "caption": "Pont illuminé"
+        "alt": "Tour défensive à l’extrémité du pont",
+        "caption": "Tour défensive à l’extrémité du pont"
       },
       {
-        "alt": "Tage depuis le pont",
-        "caption": "Méandre du Tage"
-      },
-      {
-        "alt": "Tolède et le pont",
-        "caption": "Ville et pont historique"
-      },
-      {
-        "alt": "Structure en pierre du Pont Saint-Martin à Tolède",
-        "caption": "Profil en pierre du pont"
-      },
-      {
-        "alt": "Chemin en bord de rivière près du Pont Saint-Martin",
-        "caption": "Promenade le long du Tage"
-      },
-      {
-        "alt": "Tour gothique du Pont Saint-Martin",
-        "caption": "Détail de la tour défensive"
-      },
-      {
-        "alt": "Pont Saint-Martin au coucher du soleil",
-        "caption": "Vue dorée sur le pont"
-      },
-      {
-        "alt": "Chemin piéton vers le Pont Saint-Martin",
-        "caption": "Accès et panorama environnant"
+        "alt": "Vue du pont de jour avec une rambarde au premier plan",
+        "caption": "Vue du pont de jour avec une rambarde au premier plan"
       }
     ]
   },
-  "reviews": {
-    "title": "Note Google Maps",
-    "declaration": "Note actuelle du Pont Saint-Martin sur Google Maps. Utilisez le lien officiel pour consulter les avis complets, les photos récentes et les informations les plus à jour.",
-    "summaryTitle": "Aperçu",
-    "stats": {
-      "rating": "Note",
-      "reviews": "Avis",
-      "location": "Adresse"
-    },
-    "highlightsTitle": "Pourquoi l'ajouter à votre itinéraire à Tolède",
-    "highlights": [
-      "Le pont s'intègre très bien à une promenade entre la Judería et les rives du Tage.",
-      "C'est l'un des meilleurs arrêts photo pour les vues sur la rivière et les remparts.",
-      "La visite est rapide et complète bien une journée consacrée au centre historique."
-    ],
-    "seeAll": "Voir tous les avis sur Google Maps",
-    "items": []
-  },
   "practical": {
-    "title": "Informations Pratiques",
+    "title": "Informations pratiques",
     "address": {
       "label": "Adresse",
       "value": "Bajada San Martín, 45004 Tolède, Espagne"
     },
     "hours": {
-      "label": "Horaires d'ouverture",
-      "value": "L'accès piéton est gratuit (Acceso peatonal gratuito). Ouvert 24 heures sur 24. Aucun billet ni réservation n'est requis. Nous recommandons particulièrement de venir au coucher du soleil pour profiter des vues panoramiques sur le Tage (Río Tajo) et la vieille ville de Tolède."
+      "label": "Horaires et billets",
+      "value": "Accès libre, sans billet d’entrée. Vérifiez les conditions locales avant le déplacement."
     },
     "transport": {
       "label": "Comment s'y rendre",
-      "value": "Depuis Madrid : 45 min en train à grande vitesse ou 1h en voiture. Depuis la gare de Tolède : 20 min à pied ou 10 min en bus."
-    },
-    "parking": {
-      "label": "Stationnement",
-      "value": "Parking gratuit disponible à proximité. En haute saison (septembre-mai), il peut être limité — arrivée tôt recommandée."
+      "value": "Le pont se situe à l’ouest du centre historique. Reliez-le à pied à San Juan de los Reyes et à la Judería en choisissant votre parcours sur la carte."
     },
     "accessibility": {
       "label": "Accessibilité",
-      "value": "Accès piétonnier avec rampes disponibles. Le pont a une surface en pierre inégale — chaussures confortables recommandées."
-    }
+      "value": "Le parcours comprend des surfaces de pierre et des dénivelés dans les rues d’accès. Renseignez-vous sur vos besoins de mobilité avant la visite."
+    },
+    "type": "Pont médiéval sur le Tage · ouest de Tolède",
+    "duration": "Prévoyez environ 20–40 minutes pour la promenade et les vues : une suggestion éditoriale à adapter à votre rythme."
   },
   "map": {
-    "title": "Comment s'y Rendre",
+    "title": "Carte du parcours",
     "openMaps": "Ouvrir dans Google Maps"
   },
   "footer": {
@@ -193,7 +145,6 @@
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
     "cookies": "Paramètres des Cookies",
-    "management": "Le Pont de San Martín est géré et protégé conjointement par la Mairie de Tolède (Ayuntamiento de Toledo) et le gouvernement régional de Castille-La Manche. En tant qu'important patrimoine historique et culturel de Tolède, ce pont est classé 'Bien d'Intérêt Culturel' (Bien de Interés Cultural) en Espagne.",
     "officialLinksTitle": "Ressources Officielles du Gouvernement et du Tourisme",
     "disclaimer": "Ce site web est un guide d'information touristique tiers indépendant, visant à fournir aux visiteurs un contexte historique objectif et des conseils de visite. Il s'agit d'une initiative bénévole organisée par des passionnés et ne représente aucune position officielle, ni n'est affilié aux opérateurs officiels du site."
   },

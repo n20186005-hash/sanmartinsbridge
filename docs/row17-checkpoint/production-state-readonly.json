@@ -1,0 +1,30 @@
+{
+  "task_date": "2026-11-10",
+  "status": "NOT_DEPLOYED",
+  "pages": [
+    {
+      "url": "https://www.sanmartinsbridge.com/",
+      "http_status": 200,
+      "curl_exit": 0,
+      "response_sha256": "1ca0318032748f479ba07dc21f51e66943e7afab4e5a599b8cc7744d14f9ec33",
+      "legacy_rating_visible": true,
+      "legacy_24h_visible": true
+    },
+    {
+      "url": "https://www.sanmartinsbridge.com/san-juan-de-los-reyes",
+      "http_status": 404,
+      "curl_exit": 0,
+      "response_sha256": "574f13415a3b9262eb8703ab2fb81059816ff7770c7d258df1cc843248ea2376",
+      "legacy_rating_visible": false,
+      "legacy_24h_visible": false
+    },
+    {
+      "url": "https://www.sanmartinsbridge.com/santa-maria-la-blanca",
+      "http_status": 404,
+      "curl_exit": 0,
+      "response_sha256": "e24bc5e75f273a0eeb4f3f7a896266083e80adc143196280a7a5c1b79da46965",
+      "legacy_rating_visible": false,
+      "legacy_24h_visible": false
+    }
+  ]
+}

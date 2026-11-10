@@ -51,7 +51,16 @@ export default function LanguageToggle() {
             <button
               key={l.code}
               onClick={() => {
-                router.replace(pathname, { locale: l.code });
+                const guideAliases: Record<string, { es: string; en: string }> = {
+                  '/que-ver-en-toledo': { es: '/que-ver-en-toledo', en: '/things-to-do-in-toledo' },
+                  '/things-to-do-in-toledo': { es: '/que-ver-en-toledo', en: '/things-to-do-in-toledo' },
+                  '/que-ver-en-toledo-en-un-dia': { es: '/que-ver-en-toledo-en-un-dia', en: '/toledo-one-day-itinerary' },
+                  '/toledo-one-day-itinerary': { es: '/que-ver-en-toledo-en-un-dia', en: '/toledo-one-day-itinerary' },
+                };
+                const spanishOnly = ['/como-llegar-puente-san-martin', '/historia-puente-san-martin'];
+                const alias = guideAliases[pathname];
+                const destination = alias ? (l.code === 'es' || l.code === 'en' ? alias[l.code] : '/') : spanishOnly.includes(pathname) && l.code !== 'es' ? '/' : pathname;
+                router.replace(destination, { locale: l.code });
                 setOpen(false);
               }}
               className="w-full text-left px-4 py-2 text-sm hover:opacity-70 transition-opacity flex items-center justify-between"

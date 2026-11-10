@@ -1,0 +1,109 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> sanmartinsbridge@1.0.0 build
+> next build && opennextjs-cloudflare build --skipNextBuild --dangerouslyUseUnsupportedNextVersion
+
+   ▲ Next.js 15.5.26
+
+   Creating an optimized production build ...
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ ✓ Compiled successfully in 2.2s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/35) ...
+   Generating static pages (8/35) 
+   Generating static pages (17/35) 
+   Generating static pages (26/35) 
+ ✓ Generating static pages (35/35)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                     Size  First Load JS
+┌ ○ /_not-found                                991 B         104 kB
+├ ● /[locale]                                33.8 kB         167 kB
+├   ├ /es
+├   ├ /en
+├   ├ /fr
+├   └ /zh-Hant
+├ ● /[locale]/[attraction]                     181 B         113 kB
+├   ├ /es/san-juan-de-los-reyes
+├   ├ /es/santa-maria-la-blanca
+├   ├ /en/san-juan-de-los-reyes
+├   └ [+5 more paths]
+├ ● /[locale]/como-llegar-puente-san-martin  1.67 kB         108 kB
+├   └ /es/como-llegar-puente-san-martin
+├ ● /[locale]/cookie-settings                1.42 kB         128 kB
+├   ├ /es/cookie-settings
+├   ├ /en/cookie-settings
+├   ├ /fr/cookie-settings
+├   └ /zh-Hant/cookie-settings
+├ ● /[locale]/historia-puente-san-martin     1.67 kB         108 kB
+├   └ /es/historia-puente-san-martin
+├ ● /[locale]/privacy-policy                   904 B         127 kB
+├   ├ /es/privacy-policy
+├   ├ /en/privacy-policy
+├   ├ /fr/privacy-policy
+├   └ /zh-Hant/privacy-policy
+├ ● /[locale]/que-ver-en-toledo              1.67 kB         108 kB
+├   └ /es/que-ver-en-toledo
+├ ● /[locale]/que-ver-en-toledo-en-un-dia    1.67 kB         108 kB
+├   └ /es/que-ver-en-toledo-en-un-dia
+├ ● /[locale]/terms-of-service                 904 B         127 kB
+├   ├ /es/terms-of-service
+├   ├ /en/terms-of-service
+├   ├ /fr/terms-of-service
+├   └ /zh-Hant/terms-of-service
+├ ● /[locale]/things-to-do-in-toledo         1.67 kB         108 kB
+├   └ /en/things-to-do-in-toledo
+├ ● /[locale]/toledo-one-day-itinerary       1.67 kB         108 kB
+├   └ /en/toledo-one-day-itinerary
+├ ○ /robots.txt                                135 B         103 kB
+└ ○ /sitemap.xml                               135 B         103 kB
++ First Load JS shared by all                 103 kB
+  ├ chunks/255-2dbbf79f36f0dfa2.js           46.4 kB
+  ├ chunks/4bd1b696-c023c6e3521b1417.js      54.2 kB
+  └ other shared chunks (total)              1.93 kB
+
+
+ƒ Middleware                                 52.2 kB
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mProxy environment variables detected. We'll use your proxy for fetch requests.[0m
+
+
+
+┌─────────────────────────────┐
+│ OpenNext — Cloudflare build │
+└─────────────────────────────┘
+
+App directory: /workspace/scratch/c1604e96291a/relay-row17-sanmartinsbridge
+Next.js version : 15.5.26
+WARN Next.js version 15.5.26 is not supported by the Next.js team.
+Major versions are supported for 2 years from their release date.
+Unsupported releases may contain unpatched security vulnerabilities.
+See https://nextjs.org/support-policy for more information.
+Continuing build due to --dangerouslyUseUnsupportedNextVersion flag.
+@opennextjs/cloudflare version: 1.20.6
+@opennextjs/aws version: 4.1.4
+workerd compatibility_date: 2026-09-26
+WARN Skipping Next.js build
+
+┌──────────────────────────────┐
+│ OpenNext — Generating bundle │
+└──────────────────────────────┘
+
+Bundling middleware function...
+Bundling static assets...
+Bundling cache assets...
+Building server function: default...
+Applying code patches: 3.253s
+# copyPackageTemplateFiles
+[35m⚙️ Bundling the OpenNext server...
+[0m
+[35mWorker saved in `.open-next/worker.js` 🚀
+[0m
+OpenNext build complete.

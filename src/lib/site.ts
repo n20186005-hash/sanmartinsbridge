@@ -18,13 +18,7 @@ export const GALLERY_IMAGES = [
   '/gallery/images-4.jpg',
   '/gallery/images-5.jpg',
   '/gallery/images-6.jpg',
-  '/gallery/images-7.jpg',
-  '/gallery/images-8.jpg',
-  '/gallery/images-9.jpg',
-  '/gallery/images-10.jpg',
-  '/gallery/images-11.jpg',
   '/gallery/images-12.jpg',
-  '/gallery/images-13.jpg',
 ] as const;
 
 export const HERO_IMAGE = GALLERY_IMAGES[0];

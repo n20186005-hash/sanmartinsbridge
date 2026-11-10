@@ -200,17 +200,17 @@ export const comoLlegarPuenteSanMartinGuide: GuideContent = {
       ],
       items: [
         'Punto de partida práctico: Monasterio de San Juan de los Reyes.',
-        'Tiempo orientativo: entre 10 y 15 minutos a pie.',
+        'Consulta el mapa y adapta el paseo a tu ritmo y a los desniveles.',
         'Muy recomendable si quieres combinarlo con la Judería.',
       ],
     },
     {
       title: 'Cómo llegar desde la estación de Toledo',
       paragraphs: [
-        'Desde la estación puedes llegar caminando, aunque no suele ser la opción más cómoda si vienes con poco tiempo o con calor. Lo más habitual es tomar un taxi, un autobús urbano o subir primero al centro histórico y dejar el puente para más tarde dentro de tu recorrido.',
+        'Desde la estación puedes llegar caminando, aunque no suele ser la opción más cómoda si vienes con poco tiempo o con calor. Consulta las opciones del día con los operadores de taxi o transporte urbano, o planifica primero el acceso al centro histórico y deja el puente para después.',
       ],
       items: [
-        'A pie: alrededor de 35 a 40 minutos según el ritmo y la ruta.',
+        'A pie: revisa el recorrido completo y sus desniveles antes de salir.',
         'En taxi: opción cómoda si quieres empezar por el puente.',
         'En bus: útil si primero vas al centro y después bajas caminando al puente.',
       ],
@@ -218,11 +218,11 @@ export const comoLlegarPuenteSanMartinGuide: GuideContent = {
     {
       title: 'Cómo llegar desde Madrid',
       paragraphs: [
-        'La mayoría de viajeros llega desde Madrid en AVE o en coche. Si vienes en tren, lo más eficiente es entrar primero en el casco histórico y visitar el Puente de San Martín dentro de una ruta a pie por Toledo. Si vienes en coche, puedes intentar aparcar en zonas cercanas y acceder andando.',
+        'Desde Madrid puedes planificar el viaje en tren o en coche, comprobando las opciones disponibles para tu fecha. Si vienes en tren, lo más eficiente es entrar primero en el casco histórico y visitar el Puente de San Martín dentro de una ruta a pie por Toledo. Si vienes en coche, puedes intentar aparcar en zonas cercanas y acceder andando.',
       ],
       items: [
-        'AVE Madrid-Toledo: unos 35 a 40 minutos de trayecto.',
-        'En coche: aproximadamente 1 hora, según tráfico.',
+        'Tren Madrid-Toledo: consulta los horarios y billetes del operador para tu fecha.',
+        'En coche: calcula el viaje según el tráfico y las condiciones de acceso del día.',
         'Si solo vas un día, conviene integrar el puente en un itinerario más amplio.',
       ],
     },
@@ -234,7 +234,7 @@ export const comoLlegarPuenteSanMartinGuide: GuideContent = {
       items: [
         'Evita confiar en encontrar plaza justo al lado en horas punta.',
         'Lleva calzado cómodo para el tramo final sobre piedra o pendientes suaves.',
-        'Mañana temprano y última hora suelen ser mejores momentos para aparcar.',
+        'Comprueba las condiciones y tarifas del aparcamiento elegido; no des por garantizada una plaza.',
       ],
     },
     {
@@ -432,7 +432,7 @@ export const toledoOneDayItineraryGuide: GuideContent = {
   ],
   sections: [
     {
-      title: 'Suggested timeline',
+      title: 'Suggested timeline — adjust to confirmed opening hours',
       items: [
         '09:00 Start in Plaza de Zocodover',
         '09:30 Explore the Alcazar surroundings',
@@ -448,7 +448,7 @@ export const toledoOneDayItineraryGuide: GuideContent = {
     {
       title: 'Why this route works',
       paragraphs: [
-        'It avoids backtracking and keeps the day mostly downhill or level once you move through the core landmarks. More importantly, it saves the most open panoramic section of the day for later, when the light around San Martin’s Bridge is usually at its best.',
+        'It groups nearby landmarks and saves an open panoramic section for later. Historic streets include slopes: check the map, adjust the order to confirmed opening hours and let the day’s light guide the river stop.',
       ],
     },
     {

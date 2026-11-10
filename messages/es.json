@@ -6,19 +6,15 @@
   "header": {
     "home": "Inicio",
     "gallery": "Galería",
-    "reviews": "Reseñas",
     "map": "Mapa",
     "privacy": "Privacidad",
     "terms": "Términos",
-    "cookies": "Cookies"
+    "cookies": "Cookies",
+    "nearby": "Cerca"
   },
   "hero": {
     "title": "Puente de San Martín",
     "subtitle": "Puente peatonal del siglo XIV con vistas panorámicas del río Tajo",
-    "rating": "4.7/5",
-    "reviewCount": "12,781",
-    "reviewLabel": "reseñas",
-    "hours": "Abierto las 24 horas",
     "openMaps": "Abrir en Google Maps",
     "tags": [
       "Puente medieval",
@@ -29,18 +25,21 @@
       "Fotografía",
       "Vistas panorámicas",
       "Siglo XIV"
-    ]
+    ],
+    "visit": "Visita",
+    "map": "Mapa",
+    "nearby": "Cerca"
   },
   "about": {
-    "title": "Descubre el Puente",
-    "description": "El Puente de San Martín, construido en el siglo XIV, es una joya arquitectónica medieval que se alza sobre el río Tajo en Toledo. Este puente peatonal ofrece vistas espectaculares de la ciudad amurallada y el paisaje natural del Tajo, siendo un testimonio vivo de la historia española.",
+    "title": "Acerca del puente",
+    "description": "El Puente de San Martín cruza el Tajo al oeste de Toledo. Ya existía en el siglo XIV y su perfil está formado por cinco arcos apuntados y dos torres hexagonales. Declarado Monumento Nacional en 1921, permite observar la relación entre el río, las murallas y el acceso medieval a la ciudad.",
     "highlights": {
       "title": "Destacados",
       "items": [
         "Puente peatonal del siglo XIV con arquitectura gótica",
         "Vistas panorámicas del río Tajo y la ciudad de Toledo",
         "Testimonio de la ingeniería medieval española",
-        "Acceso gratuito las 24 horas del día",
+        "Acceso libre, sin entrada",
         "Punto de fotografía ideal para capturar la esencia de Toledo",
         "Conexión histórica entre las dos orillas del Tajo"
       ]
@@ -48,12 +47,10 @@
     "visitPlanning": {
       "title": "Antes de visitar el Puente de San Martín",
       "items": [
-        "Dónde está y cuál es la mejor entrada si vienes desde el casco histórico.",
-        "Cómo llegar a pie, en coche o desde la estación de tren de Toledo.",
-        "Cuánto tiempo necesitas para ver el puente y hacer fotos con calma.",
-        "Mejor hora para visitar el puente si buscas vistas y luz suave sobre el Tajo.",
-        "Qué ver cerca: San Juan de los Reyes, Judería y paseo junto al río.",
-        "Diferencias entre el Puente de San Martín y el Puente de Alcántara."
+        "Reserva unos 20–40 minutos para el paseo y las vistas; es una sugerencia editorial, ajustable a tu ritmo.",
+        "Combina el puente con San Juan de los Reyes y Santa María la Blanca, visitando primero los interiores con horario.",
+        "Consulta el mapa antes de salir y deja margen para las pendientes y el pavimento de piedra.",
+        "Lleva agua y protección solar según el tiempo; elige la luz y el encuadre en función del día."
       ]
     },
     "guideLinks": {
@@ -80,11 +77,10 @@
           "description": "Ruta a pie realista para encajar monumentos, miradores y el Puente de San Martín en una jornada."
         }
       ]
-    },
-    "officialManagement": "El Puente de San Martín es administrado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como un importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España."
+    }
   },
   "explore": {
-    "title": "Explora el Corazón Histórico de Toledo",
+    "title": "Cultura y arquitectura",
     "items": [
       {
         "title": "Arquitectura Medieval",
@@ -106,107 +102,63 @@
   },
   "gallery": {
     "title": "Galería de Fotos",
-    "subtitle": "Imágenes del puente y sus alrededores",
-    "source": "Foto: Unsplash (última actualización: 2026)",
+    "subtitle": "Vistas del puente sobre el Tajo",
+    "source": "",
     "viewAll": "Ver todas las fotos en Google Maps",
     "images": [
       {
-        "alt": "Puente de San Martín sobre el Tajo",
-        "caption": "Vista del puente medieval"
+        "alt": "Vista general del Puente de San Martín",
+        "caption": "Vista general del Puente de San Martín"
       },
       {
-        "alt": "Arcos góticos del puente",
-        "caption": "Detalle de la arquitectura"
+        "alt": "Paso peatonal sobre el puente",
+        "caption": "Paso peatonal sobre el puente"
       },
       {
-        "alt": "Vista panorámica desde el puente",
-        "caption": "El Tajo y Toledo"
+        "alt": "Puerta de piedra de la torre",
+        "caption": "Puerta de piedra de la torre"
       },
       {
-        "alt": "Puente al amanecer",
-        "caption": "Amanecer sobre el río"
+        "alt": "Vista a través del arco",
+        "caption": "Vista a través del arco"
       },
       {
-        "alt": "Arquitectura medieval",
-        "caption": "Construcción del siglo XIV"
+        "alt": "Puente visto desde el acceso",
+        "caption": "Puente visto desde el acceso"
       },
       {
-        "alt": "Vista nocturna del puente",
-        "caption": "Puente iluminado"
+        "alt": "Torre defensiva en el extremo del puente",
+        "caption": "Torre defensiva en el extremo del puente"
       },
       {
-        "alt": "Río Tajo desde el puente",
-        "caption": "Meandro del Tajo"
-      },
-      {
-        "alt": "Toledo y el puente",
-        "caption": "Ciudad y puente histórico"
-      },
-      {
-        "alt": "Puente de San Martín y su estructura de piedra en Toledo",
-        "caption": "Perfil de piedra sobre el Tajo"
-      },
-      {
-        "alt": "Camino junto al río cerca del Puente de San Martín",
-        "caption": "Paseo junto a la ribera"
-      },
-      {
-        "alt": "Torre gótica del Puente de San Martín en Toledo",
-        "caption": "Detalle de la torre defensiva"
-      },
-      {
-        "alt": "Puente de San Martín al atardecer en Toledo",
-        "caption": "Luz dorada sobre el puente"
-      },
-      {
-        "alt": "Ruta peatonal hacia el Puente de San Martín",
-        "caption": "Acceso a pie y vistas del entorno"
+        "alt": "Puente de día con barandilla en primer plano",
+        "caption": "Puente de día con barandilla en primer plano"
       }
     ]
   },
-  "reviews": {
-    "title": "Valoración en Google Maps",
-    "declaration": "Valoración actual del Puente de San Martín en Google Maps. Para consultar reseñas completas, fotos recientes y horarios verificados, utiliza el enlace oficial de Google Maps.",
-    "summaryTitle": "Resumen de reputación",
-    "stats": {
-      "rating": "Valoración",
-      "reviews": "Reseñas",
-      "location": "Ubicación"
-    },
-    "highlightsTitle": "Por qué incluirlo en tu ruta por Toledo",
-    "highlights": [
-      "Está muy bien situado para enlazar la Judería con un paseo panorámico junto al Tajo.",
-      "Es una de las mejores paradas para fotografía de puentes, murallas y vistas del río.",
-      "Se visita rápido y funciona muy bien como pausa visual entre monumentos del casco histórico."
-    ],
-    "seeAll": "Ver todas las reseñas en Google Maps",
-    "items": []
-  },
   "practical": {
-    "title": "Información Práctica",
+    "title": "Información básica",
     "address": {
       "label": "Dirección",
       "value": "Bajada San Martín, 45004 Toledo, España"
     },
     "hours": {
-      "label": "Horario de apertura",
-      "value": "El acceso peatonal es gratuito (Acceso peatonal gratuito). Abierto las 24 horas del día. No se requieren entradas ni reservas. Recomendamos especialmente visitarlo al atardecer para disfrutar de las vistas panorámicas del Río Tajo y la ciudad antigua de Toledo."
+      "label": "Horarios y entradas",
+      "value": "Acceso libre; no se requiere entrada. Comprueba las condiciones locales antes de desplazarte."
     },
     "transport": {
       "label": "Cómo llegar",
-      "value": "Desde Madrid: 45 min en tren de alta velocidad o 1 hora en coche. Desde la estación de Toledo: 20 min caminando o 10 min en autobús."
-    },
-    "parking": {
-      "label": "Aparcamiento",
-      "value": "Aparcamiento gratuito disponible en las inmediaciones. En temporada alta (septiembre-mayo) puede ser limitado — se recomienda llegar temprano."
+      "value": "El puente está en el sector occidental del casco histórico. Puedes enlazarlo a pie con San Juan de los Reyes y la Judería; consulta el mapa para elegir tu recorrido."
     },
     "accessibility": {
       "label": "Accesibilidad",
-      "value": "Acceso peatonal con rampas disponibles. El puente tiene superficie de piedra irregular — se recomienda calzado cómodo."
-    }
+      "value": "El recorrido incluye superficies de piedra y desniveles en las calles de acceso. Consulta tus necesidades concretas de movilidad antes de organizar la visita."
+    },
+    "type": "Puente medieval sobre el Tajo · sector occidental de Toledo",
+    "duration": "Reserva unos 20–40 minutos para el paseo y las vistas; es una sugerencia editorial, ajustable a tu ritmo."
   },
   "map": {
-    "title": "Cómo Llegar",
+    "title": "Mapa de la ruta",
     "openMaps": "Abrir en Google Maps"
   },
   "footer": {
@@ -214,7 +166,6 @@
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
-    "management": "El Puente de San Martín está gestionado y protegido conjuntamente por el Ayuntamiento de Toledo y la Junta de Comunidades de Castilla-La Mancha. Como importante patrimonio histórico y cultural de Toledo, este puente es un 'Bien de Interés Cultural' en España.",
     "officialLinksTitle": "Recursos Oficiales del Gobierno y Turismo",
     "disclaimer": "Este sitio web es una guía de información turística independiente de terceros, con el objetivo de proporcionar a los visitantes antecedentes históricos objetivos y consejos de viaje. Es una iniciativa organizada por entusiastas y no representa ninguna postura oficial, ni está afiliada a los operadores oficiales del sitio."
   },
