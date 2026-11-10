@@ -32,17 +32,6 @@ export default function Hero() {
           {t('subtitle')}
         </p>
 
-        {/* Rating & Hours */}
-        <div className="flex flex-wrap items-center justify-center gap-4 mb-6 text-sm">
-          <div className="flex items-center gap-2">
-            <span className="stars">★★★★★</span>
-            <span className="font-semibold">{t('rating')}</span>
-            <span className="opacity-70">({t('reviewCount')} {t('reviewLabel')})</span>
-          </div>
-          <span className="opacity-40">|</span>
-          <span className="opacity-90">{t('hours')}</span>
-        </div>
-
         {/* Google Maps link */}
         <a
           href={MAPS_URL}
@@ -53,6 +42,8 @@ export default function Hero() {
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
           {t('openMaps')}
         </a>
+
+        <div className="flex flex-wrap justify-center gap-5 text-sm underline mb-8"><a href="#visit">{t('visit')}</a><a href="#map">{t('map')}</a><a href="#nearby">{t('nearby')}</a></div>
 
         {/* Tags */}
         <div className="flex flex-wrap justify-center gap-2">

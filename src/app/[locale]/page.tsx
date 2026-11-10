@@ -1,10 +1,12 @@
 import { getTranslations } from 'next-intl/server';
+import { BridgeExplore, BridgeRoute, BridgeSources } from '@/components/BridgePlanning';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import Explore from '@/components/Explore';
 import Gallery from '@/components/Gallery';
-import Reviews from '@/components/Reviews';
 import Practical from '@/components/Practical';
+import NearbyAttractions from '@/components/NearbyAttractions';
+import { Locale } from '@/lib/attractions';
 import MapEmbed from '@/components/MapEmbed';
 import { COORDINATES, GALLERY_IMAGES, MAPS_URL, SITE_URL, SPANISH_SITE_NAME } from '@/lib/site';
 
@@ -63,12 +65,15 @@ export default async function Home({ params }: { params: Promise<{ locale: strin
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
       <Hero />
+      <BridgeExplore />
       <About />
-      <Explore />
-      <Gallery />
-      <Reviews />
       <Practical />
       <MapEmbed />
+      <Explore />
+      <BridgeRoute />
+      <Gallery />
+      <NearbyAttractions locale={locale as Locale} />
+      <BridgeSources />
     </>
   );
 }

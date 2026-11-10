@@ -1,9 +1,11 @@
 'use client';
 import { useTranslations } from 'next-intl';
+import { usePathname } from '@/i18n/navigation';
 import { Link } from '@/i18n/navigation';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const isHome = usePathname() === '/';
 
   return (
     <footer className="border-t py-12 px-4 mt-16" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-secondary)' }}>
@@ -41,9 +43,9 @@ export default function Footer() {
             {t('cookies')}
           </Link>
         </div>
-        <p className="text-xs mb-4 whitespace-pre-line" style={{ color: 'var(--text-muted)' }}>
+        {isHome && <p className="text-xs mb-4 whitespace-pre-line" style={{ color: 'var(--text-muted)' }}>
           {t('disclaimer')}
-        </p>
+        </p>}
         <p className="text-xs" style={{ color: 'var(--text-muted)' }}>
           {t('copyright')}
         </p>

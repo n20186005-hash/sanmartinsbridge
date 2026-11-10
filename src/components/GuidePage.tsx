@@ -1,3 +1,5 @@
+import { getLocale } from 'next-intl/server';
+import { labels as attractionLabels, Locale } from '@/lib/attractions';
 import { Link } from '@/i18n/navigation';
 import { GuideContent } from '@/lib/guides';
 import { MAPS_URL } from '@/lib/site';
@@ -14,11 +16,13 @@ interface GuidePageProps {
   };
 }
 
-export default function GuidePage({ content, homeHref, labels }: GuidePageProps) {
+export default async function GuidePage({ content, homeHref, labels }: GuidePageProps) {
+  const locale = await getLocale() as Locale;
+  const nearby = attractionLabels[locale];
   return (
-    <div className="section pt-24">
+    <div className="section" style={{paddingTop:'7rem'}}>
       <Link
-        href={homeHref}
+        href={homeHref.replace(/^\/en(?=\/|$)/, '') || '/'}
         className="inline-flex items-center gap-2 mb-8 text-sm font-medium hover:opacity-70 transition-opacity"
         style={{ color: 'var(--accent)' }}
       >
@@ -84,6 +88,7 @@ export default function GuidePage({ content, homeHref, labels }: GuidePageProps)
         </div>
 
         <aside className="space-y-6">
+          <section className="rounded-xl border p-5" style={{borderColor:'var(--border-color)'}}><h2 className="font-serif text-xl mb-4">{nearby.nearby}</h2><div className="space-y-4"><Link href="/san-juan-de-los-reyes" className="block underline">San Juan de los Reyes</Link><Link href="/santa-maria-la-blanca" className="block underline">Santa María la Blanca</Link></div></section>
           <div
             className="rounded-xl border p-5"
             style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-secondary)' }}
@@ -93,7 +98,7 @@ export default function GuidePage({ content, homeHref, labels }: GuidePageProps)
             </h2>
             <div className="space-y-4">
               {content.relatedLinks.map((link) => (
-                <Link key={link.href} href={link.href} className="block">
+                <Link key={link.href} href={link.href.replace(/^\/en(?=\/|$)/, '') || '/'} className="block">
                   <div className="text-base font-medium mb-1" style={{ color: 'var(--text-primary)' }}>
                     {link.title}
                   </div>

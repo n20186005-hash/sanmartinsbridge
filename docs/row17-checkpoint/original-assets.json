@@ -1,0 +1,106 @@
+[
+  {
+    "path": "public/gallery/images-1.jpg",
+    "bytes": 3428645,
+    "sha256": "de48657c0b97fa6d61dd63c901d3cb9df86960b4fc170287150cf02ecea5fea3",
+    "width": 3399,
+    "height": 2941,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-10.jpg",
+    "bytes": 3132228,
+    "sha256": "d2731739d64d3bf25f3fb5297b36e025ee189d0b0fe2cf583c6eb347aa29b48f",
+    "width": 4224,
+    "height": 3136,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-11.jpg",
+    "bytes": 2073237,
+    "sha256": "5f416178fd7c371ed43681e69601a8296b34cb5ce99daa67e3aba5ba8ea7b989",
+    "width": 4160,
+    "height": 3120,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-12.jpg",
+    "bytes": 5523969,
+    "sha256": "828a7068b85360659e498311575ea80505c36ca4fd453cf96475e772fb112479",
+    "width": 4896,
+    "height": 3672,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-13.jpg",
+    "bytes": 1162702,
+    "sha256": "9a80f5073550d9dca5fe9ad532386f325fdc72efdc023bfa6db7be45871537da",
+    "width": 2448,
+    "height": 3264,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-2.jpg",
+    "bytes": 4095533,
+    "sha256": "baaaee9218732b9d846edd90d389ead570adea4999737b914a3eda1ead343c97",
+    "width": 3024,
+    "height": 4032,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-3.jpg",
+    "bytes": 697793,
+    "sha256": "e60b9fdb11ee415e656d8a3e79534712a324302d6b4173a4b02ac1c383bd46ec",
+    "width": 1824,
+    "height": 2688,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-4.jpg",
+    "bytes": 4631679,
+    "sha256": "cd65d1606b4b01959344f216cc2cf0ddb263abcaa9762630a4d954ff33bf8df5",
+    "width": 3072,
+    "height": 4080,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-5.jpg",
+    "bytes": 579064,
+    "sha256": "a9956cec1a6a144fd9184d978b4811b29bb0875d40d9dfd491ec6072aab0d60f",
+    "width": 2048,
+    "height": 1365,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-6.jpg",
+    "bytes": 5193846,
+    "sha256": "66329fe083ad6e2a473208ea92fdd03ef394f77b7ee18c2dd01f96ebf93429b9",
+    "width": 4080,
+    "height": 3072,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-7.jpg",
+    "bytes": 565396,
+    "sha256": "d86755e6c08138589c34e140d051d39897b5099c38c6627970c779fc06c7c331",
+    "width": 1365,
+    "height": 2048,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-8.jpg",
+    "bytes": 3921893,
+    "sha256": "f2bdd92e646c0dd6e70fe45cd28e68abe2eceb22adbc0a4bc8cc96af8e0e188d",
+    "width": 4608,
+    "height": 2592,
+    "format": "JPEG"
+  },
+  {
+    "path": "public/gallery/images-9.jpg",
+    "bytes": 252140,
+    "sha256": "31df557aa7089c2c000d08924c2f037aaba356a442c2edc3870ce33349468a0b",
+    "width": 1200,
+    "height": 1600,
+    "format": "JPEG"
+  }
+]

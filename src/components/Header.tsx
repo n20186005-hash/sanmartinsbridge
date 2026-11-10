@@ -17,7 +17,7 @@ export default function Header() {
         <nav className="hidden md:flex items-center gap-6 text-sm" style={{ color: 'var(--text-secondary)' }}>
           <a href={`${homePath || '/'}#about`} className="hover:opacity-70 transition-opacity">{t('home')}</a>
           <a href={`${homePath || '/'}#gallery`} className="hover:opacity-70 transition-opacity">{t('gallery')}</a>
-          <a href={`${homePath || '/'}#reviews`} className="hover:opacity-70 transition-opacity">{t('reviews')}</a>
+          <a href={`${homePath || '/'}#nearby`} className="hover:opacity-70 transition-opacity">{t('nearby')}</a>
           <a href={`${homePath || '/'}#map`} className="hover:opacity-70 transition-opacity">{t('map')}</a>
         </nav>
         <div className="flex items-center gap-3">

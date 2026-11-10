@@ -1,0 +1,217 @@
+{
+  "origin": "http://static-qa.local",
+  "mode": "generated HTML static QA",
+  "checkedPages": [
+    {
+      "path": "/",
+      "status": 200,
+      "h1": "Puente de San Martín",
+      "h2": [
+        "Explorar",
+        "Acerca del puente",
+        "Información básica",
+        "Horarios y entradas",
+        "Cómo llegar",
+        "Mapa de la ruta",
+        "Cultura y arquitectura",
+        "Ruta y fotografías",
+        "Galería de Fotos",
+        "Qué ver cerca",
+        "Fuentes oficiales"
+      ]
+    },
+    {
+      "path": "/san-juan-de-los-reyes",
+      "status": 200,
+      "h1": "Monasterio de San Juan de los Reyes",
+      "h2": [
+        "Explorar",
+        "Acerca del monumento",
+        "Información básica",
+        "Horarios y entradas",
+        "Cómo llegar y mapa",
+        "Mapa de la ruta",
+        "Cultura y arquitectura",
+        "Ruta y fotografías",
+        "Qué ver cerca",
+        "Fuentes oficiales"
+      ]
+    },
+    {
+      "path": "/santa-maria-la-blanca",
+      "status": 200,
+      "h1": "Santa María la Blanca",
+      "h2": [
+        "Explorar",
+        "Acerca del monumento",
+        "Información básica",
+        "Horarios y entradas",
+        "Cómo llegar y mapa",
+        "Mapa de la ruta",
+        "Cultura y arquitectura",
+        "Ruta y fotografías",
+        "Qué ver cerca",
+        "Fuentes oficiales"
+      ]
+    },
+    {
+      "path": "/en",
+      "status": 200,
+      "h1": "San Martin&#x27;s Bridge",
+      "h2": [
+        "Explore",
+        "About the bridge",
+        "Basic information",
+        "Opening hours and tickets",
+        "Getting There",
+        "Route map",
+        "Culture and architecture",
+        "Walking route and photography",
+        "Photo Gallery",
+        "Nearby attractions",
+        "Official sources"
+      ]
+    },
+    {
+      "path": "/en/san-juan-de-los-reyes",
+      "status": 200,
+      "h1": "Monastery of San Juan de los Reyes",
+      "h2": [
+        "Explore",
+        "About the monument",
+        "Basic information",
+        "Opening hours and tickets",
+        "Getting there and map",
+        "Route map",
+        "Culture and architecture",
+        "Walking route and photography",
+        "Nearby attractions",
+        "Official sources"
+      ]
+    },
+    {
+      "path": "/en/santa-maria-la-blanca",
+      "status": 200,
+      "h1": "Santa María la Blanca",
+      "h2": [
+        "Explore",
+        "About the monument",
+        "Basic information",
+        "Opening hours and tickets",
+        "Getting there and map",
+        "Route map",
+        "Culture and architecture",
+        "Walking route and photography",
+        "Nearby attractions",
+        "Official sources"
+      ]
+    },
+    {
+      "path": "/fr",
+      "status": 200,
+      "h1": "Pont Saint-Martin",
+      "h2": [
+        "Explorer",
+        "À propos du pont",
+        "Informations pratiques",
+        "Horaires et billets",
+        "Comment s&#x27;y rendre",
+        "Carte du parcours",
+        "Culture et architecture",
+        "Parcours et photographies",
+        "Galerie Photos",
+        "À voir à proximité",
+        "Sources officielles"
+      ]
+    },
+    {
+      "path": "/fr/san-juan-de-los-reyes",
+      "status": 200,
+      "h1": "Monastère de San Juan de los Reyes",
+      "h2": [
+        "Explorer",
+        "À propos du monument",
+        "Informations pratiques",
+        "Horaires et billets",
+        "Accès et carte",
+        "Carte du parcours",
+        "Culture et architecture",
+        "Parcours et photographies",
+        "À voir à proximité",
+        "Sources officielles"
+      ]
+    },
+    {
+      "path": "/fr/santa-maria-la-blanca",
+      "status": 200,
+      "h1": "Santa María la Blanca",
+      "h2": [
+        "Explorer",
+        "À propos du monument",
+        "Informations pratiques",
+        "Horaires et billets",
+        "Accès et carte",
+        "Carte du parcours",
+        "Culture et architecture",
+        "Parcours et photographies",
+        "À voir à proximité",
+        "Sources officielles"
+      ]
+    },
+    {
+      "path": "/zh-Hant",
+      "status": 200,
+      "h1": "聖馬丁橋",
+      "h2": [
+        "探索景點",
+        "關於聖馬丁橋",
+        "基本資訊",
+        "開放時間與門票",
+        "交通方式",
+        "路線地圖",
+        "文化與建築",
+        "散步路線與攝影",
+        "相簿",
+        "附近景點",
+        "官方資料來源"
+      ]
+    },
+    {
+      "path": "/zh-Hant/san-juan-de-los-reyes",
+      "status": 200,
+      "h1": "聖若望皇家修道院（San Juan de los Reyes）",
+      "h2": [
+        "探索景點",
+        "關於景點",
+        "基本資訊",
+        "開放時間與門票",
+        "交通與地圖",
+        "路線地圖",
+        "文化與建築",
+        "散步路線與攝影",
+        "附近景點",
+        "官方資料來源"
+      ]
+    },
+    {
+      "path": "/zh-Hant/santa-maria-la-blanca",
+      "status": 200,
+      "h1": "白色聖瑪利亞會堂（Santa María la Blanca）",
+      "h2": [
+        "探索景點",
+        "關於景點",
+        "基本資訊",
+        "開放時間與門票",
+        "交通與地圖",
+        "路線地圖",
+        "文化與建築",
+        "散步路線與攝影",
+        "附近景點",
+        "官方資料來源"
+      ]
+    }
+  ],
+  "checkedInternalRoutes": 30,
+  "preservedOriginalAssets": 13,
+  "errors": []
+}

@@ -6,19 +6,15 @@
   "header": {
     "home": "Home",
     "gallery": "Gallery",
-    "reviews": "Reviews",
     "map": "Map",
     "privacy": "Privacy",
     "terms": "Terms",
-    "cookies": "Cookies"
+    "cookies": "Cookies",
+    "nearby": "Nearby"
   },
   "hero": {
     "title": "San Martin's Bridge",
     "subtitle": "14th-century pedestrian bridge with sweeping views of the Tagus River",
-    "rating": "4.7/5",
-    "reviewCount": "12,781",
-    "reviewLabel": "reviews",
-    "hours": "Open 24 hours",
     "openMaps": "Open on Google Maps",
     "tags": [
       "Medieval Bridge",
@@ -29,18 +25,21 @@
       "Photography",
       "Panoramic Views",
       "14th Century"
-    ]
+    ],
+    "visit": "Plan your visit",
+    "map": "Map",
+    "nearby": "Nearby"
   },
   "about": {
-    "title": "Discover the Bridge",
-    "description": "San Martin's Bridge, built in the 14th century, is a medieval architectural jewel spanning the Tagus River in Toledo. This pedestrian bridge offers spectacular views of the walled city and the natural Tagus landscape, serving as a living testament to Spanish history.",
+    "title": "About the bridge",
+    "description": "San Martin’s Bridge crosses the Tagus west of Toledo. It already existed in the 14th century, and its profile comprises five pointed arches and two hexagonal towers. Declared a National Monument in 1921, it reveals the relationship between the river, the walls and the medieval approach to the city.",
     "highlights": {
       "title": "Highlights",
       "items": [
         "14th-century pedestrian bridge with Gothic architecture",
         "Panoramic views of the Tagus River and Toledo city",
         "Testament to medieval Spanish engineering",
-        "Free 24-hour public access",
+        "Free access; no admission ticket",
         "Ideal photography spot to capture Toledo's essence",
         "Historic connection between Tagus River banks"
       ]
@@ -48,12 +47,10 @@
     "visitPlanning": {
       "title": "Before You Visit San Martin's Bridge",
       "items": [
-        "Where the bridge is and the easiest access from Toledo's historic center.",
-        "How to get there on foot, by car or from Toledo railway station.",
-        "How much time to set aside for views, photos and a relaxed stop.",
-        "Best time of day for softer light over the Tagus River.",
-        "What to see nearby, including the Jewish Quarter and San Juan de los Reyes.",
-        "How San Martin's Bridge compares with Alcantara Bridge."
+        "Allow around 20–40 minutes for the walk and views; this is an editorial suggestion to adjust to your pace.",
+        "Combine the bridge with San Juan de los Reyes and Santa María la Blanca, visiting timed indoor spaces first.",
+        "Check the map before setting out and allow for slopes and stone paving.",
+        "Bring water and sun protection as the weather requires, and choose photographs around the day’s light."
       ]
     },
     "guideLinks": {
@@ -61,20 +58,19 @@
       "items": [
         {
           "title": "Things to Do in Toledo",
-          "href": "/en/things-to-do-in-toledo",
+          "href": "/things-to-do-in-toledo",
           "description": "A practical shortlist of top Toledo attractions and how to connect them on foot."
         },
         {
           "title": "Toledo One Day Itinerary",
-          "href": "/en/toledo-one-day-itinerary",
+          "href": "/toledo-one-day-itinerary",
           "description": "A realistic route for travelers who want to make the most of just one day in Toledo."
         }
       ]
-    },
-    "officialManagement": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain."
+    }
   },
   "explore": {
-    "title": "Explore Toledo's Historic Heart",
+    "title": "Culture and architecture",
     "items": [
       {
         "title": "Medieval Architecture",
@@ -96,107 +92,63 @@
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Images of the bridge and surroundings",
-    "source": "Photo: Unsplash (last updated: 2026)",
+    "subtitle": "Views of the bridge over the Tagus",
+    "source": "",
     "viewAll": "View all photos on Google Maps",
     "images": [
       {
-        "alt": "San Martin's Bridge over the Tagus",
-        "caption": "Medieval bridge view"
+        "alt": "General view of San Martin’s Bridge",
+        "caption": "General view of San Martin’s Bridge"
       },
       {
-        "alt": "Gothic arches of the bridge",
-        "caption": "Architecture detail"
+        "alt": "Walkway across the bridge",
+        "caption": "Walkway across the bridge"
       },
       {
-        "alt": "Panoramic view from the bridge",
-        "caption": "Tagus and Toledo"
+        "alt": "Stone gateway in the tower",
+        "caption": "Stone gateway in the tower"
       },
       {
-        "alt": "Bridge at sunrise",
-        "caption": "Sunrise over the river"
+        "alt": "View through the arch",
+        "caption": "View through the arch"
       },
       {
-        "alt": "Medieval architecture",
-        "caption": "14th century construction"
+        "alt": "Bridge seen from its approach",
+        "caption": "Bridge seen from its approach"
       },
       {
-        "alt": "Bridge night view",
-        "caption": "Illuminated bridge"
+        "alt": "Defensive tower at the bridge end",
+        "caption": "Defensive tower at the bridge end"
       },
       {
-        "alt": "Tagus River from bridge",
-        "caption": "Tagus meander"
-      },
-      {
-        "alt": "Toledo and the bridge",
-        "caption": "City and historic bridge"
-      },
-      {
-        "alt": "Stone structure of San Martin's Bridge in Toledo",
-        "caption": "Stone bridge profile"
-      },
-      {
-        "alt": "Riverside path near San Martin's Bridge",
-        "caption": "Walk along the riverbank"
-      },
-      {
-        "alt": "Gothic tower of San Martin's Bridge",
-        "caption": "Defensive tower detail"
-      },
-      {
-        "alt": "San Martin's Bridge at sunset in Toledo",
-        "caption": "Golden-hour bridge view"
-      },
-      {
-        "alt": "Walking route leading to San Martin's Bridge",
-        "caption": "Pedestrian approach and surroundings"
+        "alt": "Daytime bridge view with railing in the foreground",
+        "caption": "Daytime bridge view with railing in the foreground"
       }
     ]
   },
-  "reviews": {
-    "title": "Google Maps Rating",
-    "declaration": "Current Google Maps rating for San Martin's Bridge. Use the official Google Maps link to see full reviews, recent photos and the latest location details.",
-    "summaryTitle": "Snapshot",
-    "stats": {
-      "rating": "Rating",
-      "reviews": "Reviews",
-      "location": "Location"
-    },
-    "highlightsTitle": "Why it deserves a stop in Toledo",
-    "highlights": [
-      "It links well with the Jewish Quarter and a scenic walk beside the Tagus.",
-      "It is one of the strongest photo stops for river views, walls and medieval stonework.",
-      "It is easy to visit without adding too much time to a one-day Toledo route."
-    ],
-    "seeAll": "See all reviews on Google Maps",
-    "items": []
-  },
   "practical": {
-    "title": "Practical Information",
+    "title": "Basic information",
     "address": {
       "label": "Address",
       "value": "Bajada San Martín, 45004 Toledo, Spain"
     },
     "hours": {
-      "label": "Opening Hours",
-      "value": "Pedestrian access is free (Acceso peatonal gratuito). Open 24 hours a day. No tickets or reservations are required. We highly recommend visiting at sunset to enjoy panoramic views of the Tagus River (Río Tajo) and the old city of Toledo."
+      "label": "Opening hours and tickets",
+      "value": "Free access; no admission ticket is required. Check local conditions before travelling."
     },
     "transport": {
       "label": "Getting There",
-      "value": "From Madrid: 45 min by high-speed train or 1 hour by car. From Toledo station: 20 min walk or 10 min by bus."
-    },
-    "parking": {
-      "label": "Parking",
-      "value": "Free parking available nearby. In peak season (September-May) it can be limited — arrive early recommended."
+      "value": "The bridge is west of Toledo’s historic centre. Link it on foot with San Juan de los Reyes and the Jewish Quarter, using the map to choose your route."
     },
     "accessibility": {
       "label": "Accessibility",
-      "value": "Pedestrian access with ramps available. Bridge has uneven stone surface — comfortable footwear recommended."
-    }
+      "value": "The route includes stone surfaces and changes of level on approach streets. Check any specific mobility requirements before planning your visit."
+    },
+    "type": "Medieval bridge over the Tagus · western Toledo",
+    "duration": "Allow around 20–40 minutes for the walk and views; this is an editorial suggestion to adjust to your pace."
   },
   "map": {
-    "title": "How to Get Here",
+    "title": "Route map",
     "openMaps": "Open on Google Maps"
   },
   "footer": {
@@ -204,7 +156,6 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "management": "Puente de San Martín is jointly managed and protected by the Ayuntamiento de Toledo and the regional government of Castilla-La Mancha. As an important historical and cultural heritage of Toledo, this bridge is classified as a 'Bien de Interés Cultural' (Property of Cultural Interest) in Spain.",
     "officialLinksTitle": "Official Government and Tourism Resources",
     "disclaimer": "This website is an independent third-party tourist information guide, aiming to provide visitors with objective historical background and touring advice.\nIt is a volunteer-run initiative by enthusiasts and does not represent any official stance, nor is it affiliated with the site's official operators."
   },

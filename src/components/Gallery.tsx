@@ -60,7 +60,6 @@ export default function Gallery() {
       </div>
 
       <p className="mt-6 text-sm text-center" style={{ color: 'var(--text-muted)' }}>
-        {t('source')}{' '}
         <a
           href={MAPS_URL}
           target="_blank"

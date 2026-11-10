@@ -1,4 +1,6 @@
 import { MetadataRoute } from 'next';
+import { attractionSlugs } from '@/lib/attractions';
+import { routing } from '@/i18n/routing';
 import { SITE_URL } from '@/lib/site';
 
 const routes = [
@@ -15,7 +17,8 @@ const routes = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  return routes.map((route) => ({
+  const attractionRoutes = routing.locales.flatMap(locale => attractionSlugs.map(slug => `${locale === 'es' ? '' : `/${locale}`}/${slug}`));
+  return [...routes, ...attractionRoutes].map((route) => ({
     url: `${SITE_URL}${route}`,
     lastModified: new Date(),
     changeFrequency: route === '' ? 'weekly' : 'monthly',
